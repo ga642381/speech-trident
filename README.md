@@ -169,3 +169,23 @@ See you in Seoul!
 - https://github.com/kuan2jiu99/Awesome-Speech-Generation
 - https://github.com/ga642381/Speech-Prompts-Adapters
 - https://github.com/huckiyang/awesome-neural-reprogramming-prompting
+
+## Citation
+If you find this toolkit useful, please consider citing the following papers.
+
+```
+@article{wu2024codec,
+  title={Codec-SUPERB: An In-Depth Analysis of Sound Codec Models},
+  author={Wu, Haibin and Chung, Ho-Lam and Lin, Yi-Cheng and Wu, Yuan-Kuei and Chen, Xuanjun and Pai, Yu-Chi and Wang, Hsiu-Hsuan and Chang, Kai-Wei and Liu, Alexander H and Lee, Hung-yi},
+  journal={arXiv preprint arXiv:2402.13071},
+  year={2024}
+}
+```
+```
+@article{wu2024towards,
+  title={Towards audio language modeling-an overview},
+  author={Wu, Haibin and Chen, Xuanjun and Lin, Yi-Cheng and Chang, Kai-wei and Chung, Ho-Lam and Liu, Alexander H and Lee, Hung-yi},
+  journal={arXiv preprint arXiv:2402.13236},
+  year={2024}
+}
+```
