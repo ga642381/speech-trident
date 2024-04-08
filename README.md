@@ -1,6 +1,10 @@
 # :trident: Speech Trident - Awesome Speech LM
 
-![Speech Trident ](assets/Speech-Trident.png)
+<p align="center">
+  <img src="assets/Speech-Trident.png" alt="Speech Trident" style="width:70%;">
+</p>
+
+
 In this repository, we survey three crucial areas: (1) representation learning, (2) neural codec, and (3) language models that contribute to speech/audio large language models.
 
 1.⚡ **Speech Representation Models:** These models focus on learning structural speech representations, which can then be quantized into discrete speech tokens, often refer to **semantic tokens**.
