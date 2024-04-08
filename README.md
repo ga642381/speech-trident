@@ -64,7 +64,8 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name     | Paper Title                                                                                           | Link                                      |
 | ------- | -------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| 2024-03 | AnyGPT         | AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling                                        | [paper](https://arxiv.org/abs/2402.12226) |
+| 2024-02 | SLAM-ASR       | An Embarrassingly Simple Approach for LLM with Strong ASR Capacity                                    | [paper](https://arxiv.org/abs/2402.08846) |
+| 2024-02 | AnyGPT         | AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling                                        | [paper](https://arxiv.org/abs/2402.12226) |
 | 2024-02 | SpiRit-LM      | SpiRit-LM: Interleaved Spoken and Written Language Model                                              | [paper](https://arxiv.org/abs/2402.05755) |
 | 2024-02 | BAT            | BAT: Learning to Reason about Spatial Sounds with Large Language Models                               | [paper](https://arxiv.org/abs/2402.01591) |
 | 2024-02 | Audio Flamingo | Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities            | [paper](https://arxiv.org/abs/2402.01831) |
@@ -113,6 +114,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2023-05 | NFA          | Self-supervised neural factor analysis for disentangling utterance-level speech representations               | [paper](https://arxiv.org/abs/2305.08099) |
 | 2022-12 | Data2vec 2.0 | Efficient Self-supervised Learning with Contextualized Target Representations for Vision, Speech and Language | [paper](https://arxiv.org/abs/2212.07525) |
 | 2022-12 | BEATs        | Audio Pre-Training with Acoustic Tokenizers                                                                   | [paper](https://arxiv.org/abs/2212.09058) |
+| 2022-11 | MT4SSL       | MT4SSL: Boosting Self-Supervised Speech Representation Learning by Integrating Multiple Targets               | [paper](https://arxiv.org/abs/2211.07321) |
 | 2022-08 | DINO         | Non-contrastive self-supervised learning of utterance-level speech representations                            | [paper](https://arxiv.org/abs/2208.05413) |
 | 2022-07 | Audio-MAE    | Masked Autoencoders that Listen                                                                               | [paper](https://arxiv.org/abs/2207.06405) |
 | 2022-03 | MAE-AST      | Masked Autoencoding Audio Spectrogram Transformer                                                             | [paper](https://arxiv.org/abs/2203.16691) |
