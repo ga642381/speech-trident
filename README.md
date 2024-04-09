@@ -140,6 +140,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2024-03 | FACodec              | NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models                      | [paper](https://arxiv.org/abs/2403.03100) |
 | 2024-02 | Language-Codec       | Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models          | [paper](https://arxiv.org/abs/2402.12208) |
 | 2024-01 | ScoreDec             | ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter | [paper](https://arxiv.org/abs/2401.12160) |
+| 2023-11 | HierSpeech++         | HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation of Speech by Hierarchical Variational Inference for Zero-shot Speech Synthesis | [paper](https://arxiv.org/abs/2311.12454) |
 | 2023-09 | FunCodec             | FunCodec: A Fundamental, Reproducible and Integrable Open-source Toolkit for Neural Speech Codec            | [paper](https://arxiv.org/abs/2309.07405) |
 | 2023-08 | SpeechTokenizer      | Speechtokenizer: Unified speech tokenizer for speech large language models                                  | [paper](https://arxiv.org/abs/2308.16692) |
 | 2023-06 | Descript-audio-codec | High-Fidelity Audio Compression with Improved RVQGAN                                                        | [paper](https://arxiv.org/abs/2306.06546) |
