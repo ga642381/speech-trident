@@ -92,6 +92,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2023-05 | LTU            | Joint Audio and Speech Understanding                                                                                  | [paper](https://arxiv.org/abs/2305.10790) |
 | 2023-05 | SpeechGPT      | Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities                                  | [paper](https://arxiv.org/abs/2305.11000) |
 | 2023-05 | VioLA          | Unified Codec Language Models for Speech Recognition, Synthesis, and Translation                                      | [paper](https://arxiv.org/abs/2305.16107) |
+| 2023-05 | X-LLM          | X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages                 | [paper](https://arxiv.org/abs/2305.04160) |
 | 2023-03 | VALL-E X       | Speak Foreign Languages with Your Own Voice: Cross-Lingual Neural Codec Language Modeling                             | [paper](https://arxiv.org/abs/2303.03926) |
 | 2023-02 | SPEAR-TTS      | Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision                                         | [paper](https://arxiv.org/abs/2302.03540) |
 | 2023-01 | VALL-E         | Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers                                                | [paper](https://arxiv.org/abs/2301.02111) |
