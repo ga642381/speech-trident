@@ -67,6 +67,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-04 | WavLLM         | WavLLM: Towards Robust and Adaptive Speech Large Language Model                                                       | [paper](https://arxiv.org/abs/2404.00656) |
 | 2024-02 | SLAM-ASR       | An Embarrassingly Simple Approach for LLM with Strong ASR Capacity                                                    | [paper](https://arxiv.org/abs/2402.08846) |
 | 2024-02 | AnyGPT         | AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling                                                        | [paper](https://arxiv.org/abs/2402.12226) |
 | 2024-02 | SpiRit-LM      | SpiRit-LM: Interleaved Spoken and Written Language Model                                                              | [paper](https://arxiv.org/abs/2402.05755) |
