@@ -175,6 +175,7 @@ See you in Seoul!
 - https://github.com/liusongxiang/Large-Audio-Models
 - https://github.com/kuan2jiu99/Awesome-Speech-Generation
 - https://github.com/ga642381/Speech-Prompts-Adapters
+- https://github.com/voidful/Codec-SUPERB
 - https://github.com/huckiyang/awesome-neural-reprogramming-prompting
 
 ## Citation
