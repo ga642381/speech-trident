@@ -73,6 +73,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2024-02 | SpiRit-LM      | SpiRit-LM: Interleaved Spoken and Written Language Model                                                              | [paper](https://arxiv.org/abs/2402.05755) |
 | 2024-02 | BAT            | BAT: Learning to Reason about Spatial Sounds with Large Language Models                                               | [paper](https://arxiv.org/abs/2402.01591) |
 | 2024-02 | Audio Flamingo | Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities                            | [paper](https://arxiv.org/abs/2402.01831) |
+| 2024-02 | Text Description to speech | Natural language guidance of high-fidelity text-to-speech with synthetic annotations                      | [paper](https://arxiv.org/abs/2402.01912) |
 | 2023-12 | Seamless       | Seamless: Multilingual Expressive and Streaming Speech Translation                                                    | [paper](https://arxiv.org/abs/2312.05187) |
 | 2023-11 | Qwen-Audio     | Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models                     | [paper](https://arxiv.org/abs/2311.07919) |
 | 2023-10 | LauraGPT       | LauraGPT: Listen, Attend, Understand, and Regenerate Audio with GPT                                                   | [paper](https://arxiv.org/abs/2310.04673) |
