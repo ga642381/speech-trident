@@ -88,6 +88,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2023-08 | SeamlessM4T    | Massively Multilingual & Multimodal Machine Translation                                                               | [paper](https://arxiv.org/abs/2308.11596) |
 | 2023-07 | Speech-LLaMA   | On decoder-only architecture for speech-to-text and large language model integration                                  | [paper](https://arxiv.org/abs/2307.03917) |
 | 2023-06 | AudioPaLM      | AudioPaLM: A Large Language Model That Can Speak and Listen                                                           | [paper](https://arxiv.org/abs/2306.12925) |
+| 2023-05 | Spectron       | Spoken Question Answering and Speech Continuation Using Spectrogram-Powered LLM                                       | [paper](https://arxiv.org/abs/2305.15255) |
 | 2023-05 | TWIST          | Textually Pretrained Speech Language Models                                                                           | [paper](https://arxiv.org/abs/2305.13009) |
 | 2023-05 | Pengi          | Pengi: An Audio Language Model for Audio Tasks                                                                        | [paper](https://arxiv.org/abs/2305.11834) |
 | 2023-05 | SoundStorm     | Efficient Parallel Audio Generation                                                                                   | [paper](https://arxiv.org/abs/2305.09636) |
