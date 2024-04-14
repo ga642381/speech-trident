@@ -74,19 +74,26 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2024-02 | BAT            | BAT: Learning to Reason about Spatial Sounds with Large Language Models                                               | [paper](https://arxiv.org/abs/2402.01591) |
 | 2024-02 | Audio Flamingo | Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities                            | [paper](https://arxiv.org/abs/2402.01831) |
 | 2024-02 | Text Description to speech | Natural language guidance of high-fidelity text-to-speech with synthetic annotations                      | [paper](https://arxiv.org/abs/2402.01912) |
+| 2024-02 | GenTranslate   | GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators                        | [paper](https://arxiv.org/abs/2402.06894) |
+| 2024-02 | Base-TTS       | BASE TTS: Lessons from building a billion-parameter Text-to-Speech model on 100K hours of data                        | [paper](https://arxiv.org/abs/2402.08093) |
+| 2024-02 | --             | It's Never Too Late: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition          | [paper](https://arxiv.org/abs/2402.05457) |
+| 2024-01 | --             | Large Language Models are Efficient Learners of Noise-Robust Speech Recognition                                       | [paper](https://arxiv.org/abs/2401.10446) |
 | 2023-12 | Seamless       | Seamless: Multilingual Expressive and Streaming Speech Translation                                                    | [paper](https://arxiv.org/abs/2312.05187) |
 | 2023-11 | Qwen-Audio     | Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models                     | [paper](https://arxiv.org/abs/2311.07919) |
 | 2023-10 | LauraGPT       | LauraGPT: Listen, Attend, Understand, and Regenerate Audio with GPT                                                   | [paper](https://arxiv.org/abs/2310.04673) |
 | 2023-10 | SALMONN        | SALMONN: Towards Generic Hearing Abilities for Large Language Models                                                  | [paper](https://arxiv.org/abs/2310.13289) |
 | 2023-10 | UniAudio       | UniAudio: An Audio Foundation Model Toward Universal Audio Generation                                                 | [paper](https://arxiv.org/abs/2310.00704) |
+| 2023-10 | Whispering LLaMA | Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition                          | [paper](https://arxiv.org/abs/2310.06434) |
 | 2023-09 | VoxtLM         | Voxtlm: unified decoder-only models for consolidating speech recognition/synthesis and speech/text continuation tasks | [paper](https://arxiv.org/abs/2309.07937) |
 | 2023-09 | LTU-AS         | Joint Audio and Speech Understanding                                                                                  | [paper](https://arxiv.org/abs/2309.14405) |
 | 2023-09 | SLM            | SLM: Bridge the thin gap between speech and text foundation models                                                    | [paper](https://arxiv.org/abs/2310.00230) |
+| 2023-09 | --             | Generative Speech Recognition Error Correction with Large Language Models and Task-Activating Prompting               | [paper](https://arxiv.org/abs/2309.15649) |
 | 2023-08 | SpeechGen      | SpeechGen: Unlocking the Generative Power of Speech Language Models with Prompts                                      | [paper](https://arxiv.org/abs/2306.02207) |
 | 2023-08 | SpeechX        | SpeechX: Neural Codec Language Model as a Versatile Speech Transformer                                                | [paper](https://arxiv.org/abs/2308.06873) |
 | 2023-08 | LLaSM          | Large Language and Speech Model                                                                                       | [paper](https://arxiv.org/abs/2308.15930) |
 | 2023-08 | SeamlessM4T    | Massively Multilingual & Multimodal Machine Translation                                                               | [paper](https://arxiv.org/abs/2308.11596) |
 | 2023-07 | Speech-LLaMA   | On decoder-only architecture for speech-to-text and large language model integration                                  | [paper](https://arxiv.org/abs/2307.03917) |
+| 2023-07 | LLM-ASR(temp.) | Prompting Large Language Models with Speech Recognition Abilities                                                     | [paper](https://arxiv.org/abs/2307.11795) |
 | 2023-06 | AudioPaLM      | AudioPaLM: A Large Language Model That Can Speak and Listen                                                           | [paper](https://arxiv.org/abs/2306.12925) |
 | 2023-05 | Spectron       | Spoken Question Answering and Speech Continuation Using Spectrogram-Powered LLM                                       | [paper](https://arxiv.org/abs/2305.15255) |
 | 2023-05 | TWIST          | Textually Pretrained Speech Language Models                                                                           | [paper](https://arxiv.org/abs/2305.13009) |
@@ -96,6 +103,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2023-05 | SpeechGPT      | Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities                                  | [paper](https://arxiv.org/abs/2305.11000) |
 | 2023-05 | VioLA          | Unified Codec Language Models for Speech Recognition, Synthesis, and Translation                                      | [paper](https://arxiv.org/abs/2305.16107) |
 | 2023-05 | X-LLM          | X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages                 | [paper](https://arxiv.org/abs/2305.04160) |
+| 2023-03 | Google USM     | Google USM: Scaling Automatic Speech Recognition Beyond 100 Languages                                                 | [paper](https://arxiv.org/abs/2303.01037) |
 | 2023-03 | VALL-E X       | Speak Foreign Languages with Your Own Voice: Cross-Lingual Neural Codec Language Modeling                             | [paper](https://arxiv.org/abs/2303.03926) |
 | 2023-02 | SPEAR-TTS      | Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision                                         | [paper](https://arxiv.org/abs/2302.03540) |
 | 2023-01 | VALL-E         | Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers                                                | [paper](https://arxiv.org/abs/2301.02111) |
@@ -127,6 +135,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2022-11 | MT4SSL       | MT4SSL: Boosting Self-Supervised Speech Representation Learning by Integrating Multiple Targets               | [paper](https://arxiv.org/abs/2211.07321) |
 | 2022-08 | DINO         | Non-contrastive self-supervised learning of utterance-level speech representations                            | [paper](https://arxiv.org/abs/2208.05413) |
 | 2022-07 | Audio-MAE    | Masked Autoencoders that Listen                                                                               | [paper](https://arxiv.org/abs/2207.06405) |
+| 2022-04 | MAESTRO      | Matched Speech Text Representations through Modality Matching                                                 | [paper](https://arxiv.org/abs/2204.03409) |
 | 2022-03 | MAE-AST      | Masked Autoencoding Audio Spectrogram Transformer                                                             | [paper](https://arxiv.org/abs/2203.16691) |
 | 2022-03 | LightHuBERT  | Lightweight and Configurable Speech Representation Learning with Once-for-All Hidden-Unit BERT                | [paper](https://arxiv.org/abs/2203.15610) |
 | 2022-02 | Data2vec     | A General Framework for Self-supervised Learning in Speech, Vision and Language                               | [paper](https://arxiv.org/abs/2202.03555) |
