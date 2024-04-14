@@ -1,7 +1,7 @@
 # :trident: Speech Trident - Awesome Speech LM
 
 <p align="center">
-  <img src="assets/Speech-Trident-v2.png" alt="Speech Trident" style="width:70%;">
+  <img src="assets/Speech-Trident-v3.png" alt="Speech Trident" style="width:70%;">
 </p>
 
 In this repository, we survey three crucial areas: (1) representation learning, (2) neural codec, and (3) language models that contribute to speech/audio large language models.
@@ -107,6 +107,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2023-03 | VALL-E X       | Speak Foreign Languages with Your Own Voice: Cross-Lingual Neural Codec Language Modeling                             | [paper](https://arxiv.org/abs/2303.03926) |
 | 2023-02 | SPEAR-TTS      | Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision                                         | [paper](https://arxiv.org/abs/2302.03540) |
 | 2023-01 | VALL-E         | Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers                                                | [paper](https://arxiv.org/abs/2301.02111) |
+| 2022-12 | Whisper        | Robust Speech Recognition via Large-Scale Weak Supervision                                                            | [paper](https://arxiv.org/abs/2212.04356) |
 | 2022-10 | AudioGen       | AudioGen: Textually Guided Audio Generation                                                                           | [paper](https://arxiv.org/abs/2209.15352) |
 | 2022-09 | AudioLM        | AudioLM: a Language Modeling Approach to Audio Generation                                                             | [paper](https://arxiv.org/abs/2209.03143) |
 | 2022-05 | Wav2Seq        | Wav2Seq: Pre-training Speech-to-Text Encoder-Decoder Models Using Pseudo Languages                                    | [paper](https://arxiv.org/abs/2205.01086) |
