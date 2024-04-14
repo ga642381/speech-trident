@@ -1,7 +1,7 @@
 # :trident: Speech Trident - Awesome Speech LM
 
 <p align="center">
-  <img src="assets/Speech-Trident-v3.png" alt="Speech Trident" style="width:70%;">
+  <img src="assets/Speech-Trident-v4.png" alt="Speech Trident" style="width:70%;">
 </p>
 
 In this repository, we survey three crucial areas: (1) representation learning, (2) neural codec, and (3) language models that contribute to speech/audio large language models.
