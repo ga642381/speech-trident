@@ -182,6 +182,8 @@ Tutorial speakers:
 
 See you in Seoul!
 
+:trident: Update: The Tutorial was successfully conducted at ICASSP 2024. Thank all attendees for their participation. The slides from my presentation is available at https://kwchang.org/talks/. Please feel free to reach out to me for any discussions.
+
 ## :trident: Related Repository
 
 - https://github.com/liusongxiang/Large-Audio-Models
@@ -192,7 +194,7 @@ See you in Seoul!
 
 ## Citation
 
-If you find this toolkit useful, please consider citing the following papers.
+If you find this repository useful, please consider citing the following papers.
 
 ```
 @article{wu2024codec,
