@@ -155,6 +155,8 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-05 | HILCodec             | HILCodec: High Fidelity and Lightweight Neural Audio Codec                                                                                                 | [paper](https://arxiv.org/abs/2405.04752) |
+| 2024-04 | SemantiCodec         | SemantiCodec: An Ultra Low Bitrate Semantic Audio Codec for General Sound                                                                                  | [paper](https://arxiv.org/abs/2405.00233) |
 | 2024-03 | FACodec              | NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models                                                                     | [paper](https://arxiv.org/abs/2403.03100) |
 | 2024-02 | Language-Codec       | Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models                                                         | [paper](https://arxiv.org/abs/2402.12208) |
 | 2024-01 | ScoreDec             | ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter                                                | [paper](https://arxiv.org/abs/2401.12160) |
