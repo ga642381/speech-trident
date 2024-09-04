@@ -187,7 +187,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 ## :trident: Interspeech 2024 Tutorial Information
 
-Professor Hung-Yi Lee will be giving a talk as part of the [Interspeech 2024 tutorial](https://drive.google.com/file/d/1gPjnjGKxeCF72gisPVuQlDvogXQCtNk4/view) titled **Challenges in Developing Spoken Language Models**. The topic will cover nowday's speech/audio large language models.
+Professor Hung-Yi Lee will be giving a talk as part of the [Interspeech 2024 survey talk](https://drive.google.com/file/d/1gPjnjGKxeCF72gisPVuQlDvogXQCtNk4/view) titled **Challenges in Developing Spoken Language Models**. The topic will cover nowday's speech/audio large language models.
 
 ## :trident: ICASSP 2024 Tutorial Information
 
