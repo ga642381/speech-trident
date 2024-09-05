@@ -155,10 +155,16 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-08 | X-Codec             | Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model       | [paper](https://arxiv.org/pdf/2408.17175) |
+| 2024-08 | WavTokenizer             | WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling | [paper](https://arxiv.org/abs/2408.16532) |
+| 2024-07 | Super-Codec             | SuperCodec: A Neural Speech Codec with Selective Back-Projection Network | [paper](https://arxiv.org/abs/2407.20530) |
 | 2024-06 | Single-Codec             | Single-Codec: Single-Codebook Speech Codec towards High-Performance Speech Generation | [paper](https://www.arxiv.org/abs/2406.07422) |
+| 2024-06 | SQ-Codec             | SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models | [paper](https://arxiv.org/abs/2406.02328) |
 | 2024-06 | LLM-Codec                | UniAudio 1.5: Large Language Model-driven Audio Codec is A Few-shot Audio Task Learner  | [paper](https://arxiv.org/abs/2406.10056) |
 | 2024-05 | HILCodec                 | HILCodec: High Fidelity and Lightweight Neural Audio Codec                                                                                             | [paper](https://arxiv.org/abs/2405.04752) |
 | 2024-04 | SemantiCodec             | SemantiCodec: An Ultra Low Bitrate Semantic Audio Codec for General Sound                                                                              | [paper](https://arxiv.org/abs/2405.00233) |
+| 2024-04 | PromptCodec             | PromptCodec: High-Fidelity Neural Speech Codec using Disentangled Representation Learning based Adaptive Feature-aware Prompt Encoders                | [paper](https://arxiv.org/abs/2404.02702) |
+| 2024-04 | ESC             | ESC: Efficient Speech Coding with Cross-Scale Residual Vector Quantized Transformers                                                                             | [paper](https://arxiv.org/abs/2404.19441) |
 | 2024-03 | FACodec                  | NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models                                                                 | [paper](https://arxiv.org/abs/2403.03100) |
 | 2024-02 | AP-Codec             | APCodec: A Neural Audio Codec with Parallel Amplitude and Phase Spectrum Encoding and Decoding | [paper](https://arxiv.org/abs/2402.10533) |
 | 2024-02 | Language-Codec       | Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models                                                         | [paper](https://arxiv.org/abs/2402.12208) |
@@ -173,8 +179,15 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2023-05 | AudioDec             | Audiodec: An open-source streaming highfidelity neural audio codec                                                                                         | [paper](https://arxiv.org/abs/2305.16608) |
 | 2023-05 | HiFi-Codec           | Hifi-codec: Group-residual vector quantization for high fidelity audio codec                                                                               | [paper](https://arxiv.org/abs/2305.02765) |
 | 2023-03 | LMCodec              | LMCodec: A Low Bitrate Speech Codec With Causal Transformer Models                                                                                         | [paper](https://arxiv.org/abs/2303.12984) |
+| 2022-11 | Disen-TF-Codec              | Disentangled Feature Learning for Real-Time Neural Speech Coding   | [paper](https://arxiv.org/abs/2211.11960) |
 | 2022-10 | EnCodec              | High fidelity neural audio compression                                                                                                                     | [paper](https://arxiv.org/abs/2210.13438) |
+| 2022-07 | S-TFNet              | Cross-Scale Vector Quantization for Scalable Neural Speech Coding | [paper](https://arxiv.org/abs/2207.03067) |
+| 2022-01 | TFNet              | End-to-End Neural Speech Coding for Real-Time Communications | [paper](https://arxiv.org/abs/2201.09429) |
 | 2021-07 | SoundStream          | SoundStream: An End-to-End Neural Audio Codec                                                                                                              | [paper](https://arxiv.org/abs/2107.03312) |
+
+## :trident: Interspeech 2024 Survey Talk
+
+Professor Hung-Yi Lee will be giving a talk as part of the [Interspeech 2024 survey talk](https://drive.google.com/file/d/1gPjnjGKxeCF72gisPVuQlDvogXQCtNk4/view) titled **Challenges in Developing Spoken Language Models**. The topic will cover nowday's speech/audio large language models.
 
 ## :trident: ICASSP 2024 Tutorial Information
 
