@@ -156,11 +156,14 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-09 | SoCodec             | SoCodec: A Semantic-Ordered Multi-Stream Speech Codec for Efficient Language Model Based Text-to-Speech Synthesis       | [paper](https://arxiv.org/pdf/2409.00933) |
+| 2024-09 | BigCodec             | BigCodec: Pushing the Limits of Low-Bitrate Neural Speech Codec       | [paper](https://arxiv.org/abs/2409.05377) |
 | 2024-08 | X-Codec             | Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model       | [paper](https://arxiv.org/pdf/2408.17175) |
 | 2024-08 | WavTokenizer             | WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling | [paper](https://arxiv.org/abs/2408.16532) |
 | 2024-07 | Super-Codec             | SuperCodec: A Neural Speech Codec with Selective Back-Projection Network | [paper](https://arxiv.org/abs/2407.20530) |
 | 2024-06 | Single-Codec             | Single-Codec: Single-Codebook Speech Codec towards High-Performance Speech Generation | [paper](https://www.arxiv.org/abs/2406.07422) |
-| 2024-06 | SQ-Codec             | SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models | [paper](https://arxiv.org/abs/2406.02328) |
+| 2024-06 | SQ-Codec             | Addressing Index Collapse of Large-Codebook Speech Tokenizer with Dual-Decoding Product-Quantized Variational Auto-Encoder | [paper](https://arxiv.org/abs/2406.02328) |
+| 2024-06 | PQ-VAE             | SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models | [paper](https://arxiv.org/pdf/2406.02940) |
 | 2024-06 | LLM-Codec                | UniAudio 1.5: Large Language Model-driven Audio Codec is A Few-shot Audio Task Learner  | [paper](https://arxiv.org/abs/2406.10056) |
 | 2024-05 | HILCodec                 | HILCodec: High Fidelity and Lightweight Neural Audio Codec                                                                                             | [paper](https://arxiv.org/abs/2405.04752) |
 | 2024-04 | SemantiCodec             | SemantiCodec: An Ultra Low Bitrate Semantic Audio Codec for General Sound                                                                              | [paper](https://arxiv.org/abs/2405.00233) |
