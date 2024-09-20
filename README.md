@@ -67,7 +67,21 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-09 | LLaMA-Omni         | LLaMA-Omni: Seamless Speech Interaction with Large Language Models                                                      | [paper](https://arxiv.org/abs/2409.06666) |
+| 2024-09 | MaskGCT         | MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer                                                       | [paper](https://arxiv.org/abs/2409.00750v1) |
+| 2024-09 | SSR-Speech         | SSR-Speech: Towards Stable, Safe and Robust Zero-shot Text-based Speech Editing and Synthesis                                                       | [paper](https://arxiv.org/abs/2409.07556) |
+| 2024-09 | MoWE-Audio         | MoWE-Audio: Multitask AudioLLMs with Mixture of Weak Encoders                                                       | [paper](https://arxiv.org/pdf/2409.06635) |
+| 2024-08 | Mini-Omni       | Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming                                       | [paper](https://arxiv.org/abs/2408.16725) |
+| 2024-08 | Make-A-Voice 2       | Language Model Can Listen While Speaking                                       | [paper](https://aclanthology.org/2024.acl-long.589/) |
+| 2024-08 | LSLM       | Make-A-Voice: Revisiting Voice Large Language Models as Scalable Multilingual and Multitask Learner                                       | [paper](https://arxiv.org/abs/2408.02622) |
+| 2024-06 | SimpleSpeech       | SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models                                       | [paper](https://arxiv.org/abs/2406.02328) |
+| 2024-06 | UniAudio 1.5                | UniAudio 1.5: Large Language Model-driven Audio Codec is A Few-shot Audio Task Learner  | [paper](https://arxiv.org/abs/2406.10056) |
+| 2024-06 | VALL-E R               | VALL-E R: Robust and Efficient Zero-Shot Text-to-Speech Synthesis via Monotonic Alignment  | [paper](https://arxiv.org/abs/2406.07855) |
+| 2024-06 | VALL-E 2               | VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers  | [paper](https://arxiv.org/abs/2406.05370) |
+| 2024-04 | CLaM-TTS         | CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech                                                       | [paper](https://arxiv.org/abs/2404.02781) |
+| 2024-04 | RALL-E         | RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis                                                       | [paper](https://arxiv.org/abs/2404.03204) |
 | 2024-04 | WavLLM         | WavLLM: Towards Robust and Adaptive Speech Large Language Model                                                       | [paper](https://arxiv.org/abs/2404.00656) |
+| 2024-02 | MobileSpeech       | MobileSpeech: A Fast and High-Fidelity Framework for Mobile Zero-Shot Text-to-Speech                                                    | [paper](https://arxiv.org/abs/2402.09378) |
 | 2024-02 | SLAM-ASR       | An Embarrassingly Simple Approach for LLM with Strong ASR Capacity                                                    | [paper](https://arxiv.org/abs/2402.08846) |
 | 2024-02 | AnyGPT         | AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling                                                        | [paper](https://arxiv.org/abs/2402.12226) |
 | 2024-02 | SpiRit-LM      | SpiRit-LM: Interleaved Spoken and Written Language Model                                                              | [paper](https://arxiv.org/abs/2402.05755) |
@@ -79,6 +93,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2024-02 | Base-TTS       | BASE TTS: Lessons from building a billion-parameter Text-to-Speech model on 100K hours of data                        | [paper](https://arxiv.org/abs/2402.08093) |
 | 2024-02 | --             | It's Never Too Late: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition          | [paper](https://arxiv.org/abs/2402.05457) |
 | 2024-01 | --             | Large Language Models are Efficient Learners of Noise-Robust Speech Recognition                                       | [paper](https://arxiv.org/abs/2401.10446) |
+| 2024-01 | ELLA-V             | ELLA-V: Stable Neural Codec Language Modeling with Alignment-guided Sequence Reordering                                       | [paper](https://arxiv.org/abs/2401.07333) |
 | 2023-12 | Seamless       | Seamless: Multilingual Expressive and Streaming Speech Translation                                                    | [paper](https://arxiv.org/abs/2312.05187) |
 | 2023-11 | Qwen-Audio     | Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models                     | [paper](https://arxiv.org/abs/2311.07919) |
 | 2023-10 | LauraGPT       | LauraGPT: Listen, Attend, Understand, and Regenerate Audio with GPT                                                   | [paper](https://arxiv.org/abs/2310.04673) |
@@ -96,6 +111,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2023-07 | Speech-LLaMA   | On decoder-only architecture for speech-to-text and large language model integration                                  | [paper](https://arxiv.org/abs/2307.03917) |
 | 2023-07 | LLM-ASR(temp.) | Prompting Large Language Models with Speech Recognition Abilities                                                     | [paper](https://arxiv.org/abs/2307.11795) |
 | 2023-06 | AudioPaLM      | AudioPaLM: A Large Language Model That Can Speak and Listen                                                           | [paper](https://arxiv.org/abs/2306.12925) |
+| 2023-05 | Make-A-Voice       | Make-A-Voice: Unified Voice Synthesis With Discrete Representation                                       | [paper](https://arxiv.org/abs/2305.19269) |
 | 2023-05 | Spectron       | Spoken Question Answering and Speech Continuation Using Spectrogram-Powered LLM                                       | [paper](https://arxiv.org/abs/2305.15255) |
 | 2023-05 | TWIST          | Textually Pretrained Speech Language Models                                                                           | [paper](https://arxiv.org/abs/2305.13009) |
 | 2023-05 | Pengi          | Pengi: An Audio Language Model for Audio Tasks                                                                        | [paper](https://arxiv.org/abs/2305.11834) |
