@@ -67,7 +67,9 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| 2024-09 | Moshi             | Moshi: a speech-text foundation model for real-time dialogue       | [paper](https://kyutai.org/Moshi.pdf) |
+| 2024-09 | Moshi               | Moshi: a speech-text foundation model for real-time dialogue       | [paper](https://kyutai.org/Moshi.pdf) |
+| 2024-09 | Takin TTS           | Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models       | [paper](https://arxiv.org/abs/2409.12139) |
+| 2024-09 | FireRedTTS          | FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications       | [paper](https://arxiv.org/html/2409.03283v1) |
 | 2024-09 | LLaMA-Omni         | LLaMA-Omni: Seamless Speech Interaction with Large Language Models                                                      | [paper](https://arxiv.org/abs/2409.06666) |
 | 2024-09 | MaskGCT         | MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer                                                       | [paper](https://arxiv.org/abs/2409.00750v1) |
 | 2024-09 | SSR-Speech         | SSR-Speech: Towards Stable, Safe and Robust Zero-shot Text-based Speech Editing and Synthesis                                                       | [paper](https://arxiv.org/abs/2409.07556) |
@@ -79,6 +81,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2024-06 | UniAudio 1.5                | UniAudio 1.5: Large Language Model-driven Audio Codec is A Few-shot Audio Task Learner  | [paper](https://arxiv.org/abs/2406.10056) |
 | 2024-06 | VALL-E R               | VALL-E R: Robust and Efficient Zero-Shot Text-to-Speech Synthesis via Monotonic Alignment  | [paper](https://arxiv.org/abs/2406.07855) |
 | 2024-06 | VALL-E 2               | VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers  | [paper](https://arxiv.org/abs/2406.05370) |
+| 2024-06 | GPST             | Generative Pre-trained Speech Language Model with Efficient Hierarchical Transformer  | [paper](https://arxiv.org/abs/2406.00976) |
 | 2024-04 | CLaM-TTS         | CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech                                                       | [paper](https://arxiv.org/abs/2404.02781) |
 | 2024-04 | RALL-E         | RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis                                                       | [paper](https://arxiv.org/abs/2404.03204) |
 | 2024-04 | WavLLM         | WavLLM: Towards Robust and Adaptive Speech Large Language Model                                                       | [paper](https://arxiv.org/abs/2404.00656) |
