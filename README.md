@@ -68,7 +68,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 | 2024-09 | Moshi               | Moshi: a speech-text foundation model for real-time dialogue       | [paper](https://kyutai.org/Moshi.pdf) |
-| 2024-09 | Takin TTS           | Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models       | [paper](https://arxiv.org/abs/2409.12139) |
+| 2024-09 | Takin AudioLLM           | Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models       | [paper](https://arxiv.org/abs/2409.12139) |
 | 2024-09 | FireRedTTS          | FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications       | [paper](https://arxiv.org/html/2409.03283v1) |
 | 2024-09 | LLaMA-Omni         | LLaMA-Omni: Seamless Speech Interaction with Large Language Models                                                      | [paper](https://arxiv.org/abs/2409.06666) |
 | 2024-09 | MaskGCT         | MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer                                                       | [paper](https://arxiv.org/abs/2409.00750v1) |
