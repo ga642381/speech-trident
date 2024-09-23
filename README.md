@@ -138,7 +138,9 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name   | Paper Title                                                                                                   | Link                                      |
 | ------- | ------------ | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-05 | VLB          | A Discrete and Variational Approach to Speech Representation Learning                                         | [paper](https://openreview.net/forum?id=rQRDt8F2Yh) |
 | 2024-01 | EAT          | Self-Supervised Pre-Training with Efficient Audio Transformer                                                 | [paper](https://arxiv.org/abs/2401.03497) |
+| 2023-12 | emotion2vec  | emotion2vec: Self-Supervised Pre-Training for Speech Emotion Representation                                   | [paper](https://arxiv.org/abs/2312.15185) |
 | 2023-10 | MR-HuBERT    | Multi-resolution HuBERT: Multi-resolution Speech Self-Supervised Learning with Masked Unit Prediction         | [paper](https://arxiv.org/abs/2310.02720) |
 | 2023-10 | SpeechFlow   | Generative Pre-training for Speech with Flow Matching                                                         | [paper](https://arxiv.org/abs/2310.16338) |
 | 2023-09 | WavLabLM     | Joint Prediction and Denoising for Large-scale Multilingual Self-supervised Learning                          | [paper](https://arxiv.org/abs/2309.15317) |
