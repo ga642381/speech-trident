@@ -67,6 +67,9 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-09 | Moshi               | Moshi: a speech-text foundation model for real-time dialogue       | [paper](https://kyutai.org/Moshi.pdf) |
+| 2024-09 | Takin AudioLLM           | Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models       | [paper](https://arxiv.org/abs/2409.12139) |
+| 2024-09 | FireRedTTS          | FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications       | [paper](https://arxiv.org/html/2409.03283v1) |
 | 2024-09 | LLaMA-Omni         | LLaMA-Omni: Seamless Speech Interaction with Large Language Models                                                      | [paper](https://arxiv.org/abs/2409.06666) |
 | 2024-09 | MaskGCT         | MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer                                                       | [paper](https://arxiv.org/abs/2409.00750v1) |
 | 2024-09 | SSR-Speech         | SSR-Speech: Towards Stable, Safe and Robust Zero-shot Text-based Speech Editing and Synthesis                                                       | [paper](https://arxiv.org/abs/2409.07556) |
@@ -78,6 +81,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2024-06 | UniAudio 1.5                | UniAudio 1.5: Large Language Model-driven Audio Codec is A Few-shot Audio Task Learner  | [paper](https://arxiv.org/abs/2406.10056) |
 | 2024-06 | VALL-E R               | VALL-E R: Robust and Efficient Zero-Shot Text-to-Speech Synthesis via Monotonic Alignment  | [paper](https://arxiv.org/abs/2406.07855) |
 | 2024-06 | VALL-E 2               | VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers  | [paper](https://arxiv.org/abs/2406.05370) |
+| 2024-06 | GPST             | Generative Pre-trained Speech Language Model with Efficient Hierarchical Transformer  | [paper](https://arxiv.org/abs/2406.00976) |
 | 2024-04 | CLaM-TTS         | CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech                                                       | [paper](https://arxiv.org/abs/2404.02781) |
 | 2024-04 | RALL-E         | RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis                                                       | [paper](https://arxiv.org/abs/2404.03204) |
 | 2024-04 | WavLLM         | WavLLM: Towards Robust and Adaptive Speech Large Language Model                                                       | [paper](https://arxiv.org/abs/2404.00656) |
@@ -138,6 +142,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name   | Paper Title                                                                                                   | Link                                      |
 | ------- | ------------ | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-09 | NEST-RQ      | NEST-RQ: Next Token Prediction for Speech Self-Supervised Pre-Training                                        | [paper](https://arxiv.org/pdf/2409.08680) |
 | 2024-01 | EAT          | Self-Supervised Pre-Training with Efficient Audio Transformer                                                 | [paper](https://arxiv.org/abs/2401.03497) |
 | 2023-10 | MR-HuBERT    | Multi-resolution HuBERT: Multi-resolution Speech Self-Supervised Learning with Masked Unit Prediction         | [paper](https://arxiv.org/abs/2310.02720) |
 | 2023-10 | SpeechFlow   | Generative Pre-training for Speech with Flow Matching                                                         | [paper](https://arxiv.org/abs/2310.16338) |
@@ -172,6 +177,8 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-09 | Mimi             | Moshi: a speech-text foundation model for real-time dialogue       | [paper](https://kyutai.org/Moshi.pdf) |
+| 2024-09 | NDVQ             | NDVQ: Robust Neural Audio Codec with Normal Distribution-Based Vector Quantization       | [paper](https://arxiv.org/pdf/2409.12717) |
 | 2024-09 | SoCodec             | SoCodec: A Semantic-Ordered Multi-Stream Speech Codec for Efficient Language Model Based Text-to-Speech Synthesis       | [paper](https://arxiv.org/pdf/2409.00933) |
 | 2024-09 | BigCodec             | BigCodec: Pushing the Limits of Low-Bitrate Neural Speech Codec       | [paper](https://arxiv.org/abs/2409.05377) |
 | 2024-08 | X-Codec             | Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model       | [paper](https://arxiv.org/pdf/2408.17175) |
