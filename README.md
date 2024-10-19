@@ -221,6 +221,9 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2022-01 | TFNet              | End-to-End Neural Speech Coding for Real-Time Communications | [paper](https://arxiv.org/abs/2201.09429) |
 | 2021-07 | SoundStream          | SoundStream: An End-to-End Neural Audio Codec                                                                                                              | [paper](https://arxiv.org/abs/2107.03312) |
 
+## :trident: SLT 2024 Codec-SUPERB challenge (upcoming)
+[Webpage](https://codecsuperb.github.io/). The challenge will cover nowday's neural audio codecs and speech/audio language models. Agenda: To be determined.
+
 ## :trident: Interspeech 2024 Survey Talk
 
 Professor Hung-Yi Lee will be giving a talk as part of the [Interspeech 2024 survey talk](https://drive.google.com/file/d/1gPjnjGKxeCF72gisPVuQlDvogXQCtNk4/view) titled **Challenges in Developing Spoken Language Models**. The topic will cover nowday's speech/audio large language models.
@@ -252,6 +255,15 @@ See you in Seoul!
 ## Citation
 
 If you find this repository useful, please consider citing the following papers.
+
+```
+@article{wu2024codec2,
+  title={Codec-SUPERB@ SLT 2024: A lightweight benchmark for neural audio codec models},
+  author={Wu, Haibin and Chen, Xuanjun and Lin, Yi-Cheng and Chang, Kaiwei and Du, Jiawei and Lu, Ke-Han and Liu, Alexander H and Chung, Ho-Lam and Wu, Yuan-Kuei and Yang, Dongchao and others},
+  journal={arXiv preprint arXiv:2409.14085},
+  year={2024}
+}
+```
 
 ```
 @article{wu2024codec,
