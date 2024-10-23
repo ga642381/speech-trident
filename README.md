@@ -67,6 +67,8 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-10 | Baichuan-OMNI              | Baichuan-Omni Technical Report       | [paper](https://arxiv.org/abs/2410.08565) |
+| 2024-10 | --              | Roadmap towards Superhuman Speech Understanding using Large Language Models       | [paper](https://arxiv.org/abs/2410.13268) |
 | 2024-10 | SALMONN-OMNI               | SALMONN-OMNI: A SPEECH UNDERSTANDING AND GENERATION LLM IN A CODEC-FREE FULL-DUPLEX FRAMEWORK       | [paper](https://openreview.net/attachment?id=eJpI20hzWf&name=pdf) |
 | 2024-10 | Mini-Omni 2               | Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities       | [paper](https://arxiv.org/abs/2410.11190) |
 | 2024-10 | HALL-E               | HALL-E: Hierarchical Neural Codec Language Model for Minute-Long Zero-Shot Text-to-Speech Synthesis       | [paper](https://openreview.net/forum?id=868masI331) |
@@ -194,6 +196,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2024-08 | X-Codec             | Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model       | [paper](https://arxiv.org/pdf/2408.17175) |
 | 2024-08 | WavTokenizer             | WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling | [paper](https://arxiv.org/abs/2408.16532) |
 | 2024-07 | Super-Codec             | SuperCodec: A Neural Speech Codec with Selective Back-Projection Network | [paper](https://arxiv.org/abs/2407.20530) |
+| 2024-06 | CodecFake             | CodecFake: Enhancing Anti-Spoofing Models Against Deepfake Audios from Codec-Based Speech Synthesis Systems | [paper](https://arxiv.org/abs/2406.07237) |
 | 2024-06 | Single-Codec             | Single-Codec: Single-Codebook Speech Codec towards High-Performance Speech Generation | [paper](https://www.arxiv.org/abs/2406.07422) |
 | 2024-06 | SQ-Codec             | SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models | [paper](https://arxiv.org/abs/2406.02328) |
 | 2024-06 | PQ-VAE             | Addressing Index Collapse of Large-Codebook Speech Tokenizer with Dual-Decoding Product-Quantized Variational Auto-Encoder | [paper](https://arxiv.org/abs/2406.02940) |
