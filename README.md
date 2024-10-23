@@ -181,6 +181,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-10 | LSCodec | LSCodec: Low-Bitrate and Speaker-Decoupled Discrete Speech Codec       | [paper](https://arxiv.org/abs/2410.15764) |
 | 2024-10 | Co-design for codec and codec-LM | TOWARDS CODEC-LM CO-DESIGN FOR NEURAL CODEC LANGUAGE MODELS       | [paper](https://openreview.net/pdf?id=KCVv3tICvp) |
 | 2024-10 | VChangeCodec | VChangeCodec: A High-efficiency Neural Speech Codec with Built-in Voice Changer for Real-time Communication       | [paper](https://openreview.net/forum?id=qDSfOQBrOD) |
 | 2024-10 | DC-Spin | DC-Spin: A Speaker-invariant Speech Tokenizer For Spoken Language Models       | [paper](https://openreview.net/forum?id=OW332Wh9S5) |
