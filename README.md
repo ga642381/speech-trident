@@ -144,45 +144,11 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2021-09 | p-GSLM         | Text-Free Prosody-Aware Generative Spoken Language Modeling                                                           | [paper](https://arxiv.org/abs/2109.03264) |
 | 2021-02 | GSLM           | Generative Spoken Language Modeling from Raw Audio                                                                    | [paper](https://arxiv.org/abs/2102.01192) |
 
-## :trident: Speech/Audio Representation Models
-
-| Date    | Model Name   | Paper Title                                                                                                   | Link                                      |
-| ------- | ------------ | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| 2024-09 | NEST-RQ      | NEST-RQ: Next Token Prediction for Speech Self-Supervised Pre-Training                                        | [paper](https://arxiv.org/pdf/2409.08680) |
-| 2024-01 | EAT          | Self-Supervised Pre-Training with Efficient Audio Transformer                                                 | [paper](https://arxiv.org/abs/2401.03497) |
-| 2023-10 | MR-HuBERT    | Multi-resolution HuBERT: Multi-resolution Speech Self-Supervised Learning with Masked Unit Prediction         | [paper](https://arxiv.org/abs/2310.02720) |
-| 2023-10 | SpeechFlow   | Generative Pre-training for Speech with Flow Matching                                                         | [paper](https://arxiv.org/abs/2310.16338) |
-| 2023-09 | WavLabLM     | Joint Prediction and Denoising for Large-scale Multilingual Self-supervised Learning                          | [paper](https://arxiv.org/abs/2309.15317) |
-| 2023-08 | W2v-BERT 2.0 | Massively Multilingual & Multimodal Machine Translation                                                       | [paper](https://arxiv.org/abs/2308.11596) |
-| 2023-07 | Whisper-AT   | Noise-Robust Automatic Speech Recognizers are Also Strong General Audio Event Taggers                         | [paper](https://arxiv.org/abs/2307.03183) |
-| 2023-06 | ATST         | Self-supervised Audio Teacher-Student Transformer for Both Clip-level and Frame-level Tasks                   | [paper](https://arxiv.org/abs/2306.04186) |
-| 2023-05 | SPIN         | Self-supervised Fine-tuning for Improved Content Representations by Speaker-invariant Clustering              | [paper](https://arxiv.org/abs/2305.11072) |
-| 2023-05 | DinoSR       | Self-Distillation and Online Clustering for Self-supervised Speech Representation Learning                    | [paper](https://arxiv.org/abs/2305.10005) |
-| 2023-05 | NFA          | Self-supervised neural factor analysis for disentangling utterance-level speech representations               | [paper](https://arxiv.org/abs/2305.08099) |
-| 2022-12 | Data2vec 2.0 | Efficient Self-supervised Learning with Contextualized Target Representations for Vision, Speech and Language | [paper](https://arxiv.org/abs/2212.07525) |
-| 2022-12 | BEATs        | Audio Pre-Training with Acoustic Tokenizers                                                                   | [paper](https://arxiv.org/abs/2212.09058) |
-| 2022-11 | MT4SSL       | MT4SSL: Boosting Self-Supervised Speech Representation Learning by Integrating Multiple Targets               | [paper](https://arxiv.org/abs/2211.07321) |
-| 2022-08 | DINO         | Non-contrastive self-supervised learning of utterance-level speech representations                            | [paper](https://arxiv.org/abs/2208.05413) |
-| 2022-07 | Audio-MAE    | Masked Autoencoders that Listen                                                                               | [paper](https://arxiv.org/abs/2207.06405) |
-| 2022-04 | MAESTRO      | Matched Speech Text Representations through Modality Matching                                                 | [paper](https://arxiv.org/abs/2204.03409) |
-| 2022-03 | MAE-AST      | Masked Autoencoding Audio Spectrogram Transformer                                                             | [paper](https://arxiv.org/abs/2203.16691) |
-| 2022-03 | LightHuBERT  | Lightweight and Configurable Speech Representation Learning with Once-for-All Hidden-Unit BERT                | [paper](https://arxiv.org/abs/2203.15610) |
-| 2022-02 | Data2vec     | A General Framework for Self-supervised Learning in Speech, Vision and Language                               | [paper](https://arxiv.org/abs/2202.03555) |
-| 2021-10 | WavLM        | WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing                              | [paper](https://arxiv.org/abs/2110.13900) |
-| 2021-08 | W2v-BERT     | Combining Contrastive Learning and Masked Language Modeling for Self-Supervised Speech Pre-Training           | [paper](https://arxiv.org/abs/2108.06209) |
-| 2021-07 | mHuBERT      | Direct speech-to-speech translation with discrete units                                                       | [paper](https://arxiv.org/abs/2107.05604) |
-| 2021-06 | HuBERT       | Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units                           | [paper](https://arxiv.org/abs/2106.07447) |
-| 2021-03 | BYOL-A       | Self-Supervised Learning for General-Purpose Audio Representation                                             | [paper](https://arxiv.org/abs/2103.06695) |
-| 2020-12 | DeCoAR2.0    | DeCoAR 2.0: Deep Contextualized Acoustic Representations with Vector Quantization                             | [paper](https://arxiv.org/abs/2012.06659) |
-| 2020-07 | TERA         | TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech                               | [paper](https://arxiv.org/abs/2007.06028) |
-| 2020-06 | Wav2vec2.0   | wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations                               | [paper](https://arxiv.org/abs/2006.11477) |
-| 2019-10 | APC          | Generative Pre-Training for Speech with Autoregressive Predictive Coding                                      | [paper](https://arxiv.org/abs/1910.12607) |
-| 2018-07 | CPC          | Representation Learning with Contrastive Predictive Coding                                                    | [paper](https://arxiv.org/abs/1807.03748) |
-
 ## :trident: Speech/Audio Codec Models
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-10 | SNAC | SNAC: Multi-Scale Neural Audio Codec       | [paper](https://arxiv.org/pdf/2410.14411) |
 | 2024-10 | LSCodec | LSCodec: Low-Bitrate and Speaker-Decoupled Discrete Speech Codec       | [paper](https://arxiv.org/abs/2410.15764) |
 | 2024-10 | Co-design for codec and codec-LM | TOWARDS CODEC-LM CO-DESIGN FOR NEURAL CODEC LANGUAGE MODELS       | [paper](https://openreview.net/pdf?id=KCVv3tICvp) |
 | 2024-10 | VChangeCodec | VChangeCodec: A High-efficiency Neural Speech Codec with Built-in Voice Changer for Real-time Communication       | [paper](https://openreview.net/forum?id=qDSfOQBrOD) |
@@ -224,6 +190,41 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2022-07 | S-TFNet              | Cross-Scale Vector Quantization for Scalable Neural Speech Coding | [paper](https://arxiv.org/abs/2207.03067) |
 | 2022-01 | TFNet              | End-to-End Neural Speech Coding for Real-Time Communications | [paper](https://arxiv.org/abs/2201.09429) |
 | 2021-07 | SoundStream          | SoundStream: An End-to-End Neural Audio Codec                                                                                                              | [paper](https://arxiv.org/abs/2107.03312) |
+
+## :trident: Speech/Audio Representation Models
+
+| Date    | Model Name   | Paper Title                                                                                                   | Link                                      |
+| ------- | ------------ | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-09 | NEST-RQ      | NEST-RQ: Next Token Prediction for Speech Self-Supervised Pre-Training                                        | [paper](https://arxiv.org/pdf/2409.08680) |
+| 2024-01 | EAT          | Self-Supervised Pre-Training with Efficient Audio Transformer                                                 | [paper](https://arxiv.org/abs/2401.03497) |
+| 2023-10 | MR-HuBERT    | Multi-resolution HuBERT: Multi-resolution Speech Self-Supervised Learning with Masked Unit Prediction         | [paper](https://arxiv.org/abs/2310.02720) |
+| 2023-10 | SpeechFlow   | Generative Pre-training for Speech with Flow Matching                                                         | [paper](https://arxiv.org/abs/2310.16338) |
+| 2023-09 | WavLabLM     | Joint Prediction and Denoising for Large-scale Multilingual Self-supervised Learning                          | [paper](https://arxiv.org/abs/2309.15317) |
+| 2023-08 | W2v-BERT 2.0 | Massively Multilingual & Multimodal Machine Translation                                                       | [paper](https://arxiv.org/abs/2308.11596) |
+| 2023-07 | Whisper-AT   | Noise-Robust Automatic Speech Recognizers are Also Strong General Audio Event Taggers                         | [paper](https://arxiv.org/abs/2307.03183) |
+| 2023-06 | ATST         | Self-supervised Audio Teacher-Student Transformer for Both Clip-level and Frame-level Tasks                   | [paper](https://arxiv.org/abs/2306.04186) |
+| 2023-05 | SPIN         | Self-supervised Fine-tuning for Improved Content Representations by Speaker-invariant Clustering              | [paper](https://arxiv.org/abs/2305.11072) |
+| 2023-05 | DinoSR       | Self-Distillation and Online Clustering for Self-supervised Speech Representation Learning                    | [paper](https://arxiv.org/abs/2305.10005) |
+| 2023-05 | NFA          | Self-supervised neural factor analysis for disentangling utterance-level speech representations               | [paper](https://arxiv.org/abs/2305.08099) |
+| 2022-12 | Data2vec 2.0 | Efficient Self-supervised Learning with Contextualized Target Representations for Vision, Speech and Language | [paper](https://arxiv.org/abs/2212.07525) |
+| 2022-12 | BEATs        | Audio Pre-Training with Acoustic Tokenizers                                                                   | [paper](https://arxiv.org/abs/2212.09058) |
+| 2022-11 | MT4SSL       | MT4SSL: Boosting Self-Supervised Speech Representation Learning by Integrating Multiple Targets               | [paper](https://arxiv.org/abs/2211.07321) |
+| 2022-08 | DINO         | Non-contrastive self-supervised learning of utterance-level speech representations                            | [paper](https://arxiv.org/abs/2208.05413) |
+| 2022-07 | Audio-MAE    | Masked Autoencoders that Listen                                                                               | [paper](https://arxiv.org/abs/2207.06405) |
+| 2022-04 | MAESTRO      | Matched Speech Text Representations through Modality Matching                                                 | [paper](https://arxiv.org/abs/2204.03409) |
+| 2022-03 | MAE-AST      | Masked Autoencoding Audio Spectrogram Transformer                                                             | [paper](https://arxiv.org/abs/2203.16691) |
+| 2022-03 | LightHuBERT  | Lightweight and Configurable Speech Representation Learning with Once-for-All Hidden-Unit BERT                | [paper](https://arxiv.org/abs/2203.15610) |
+| 2022-02 | Data2vec     | A General Framework for Self-supervised Learning in Speech, Vision and Language                               | [paper](https://arxiv.org/abs/2202.03555) |
+| 2021-10 | WavLM        | WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing                              | [paper](https://arxiv.org/abs/2110.13900) |
+| 2021-08 | W2v-BERT     | Combining Contrastive Learning and Masked Language Modeling for Self-Supervised Speech Pre-Training           | [paper](https://arxiv.org/abs/2108.06209) |
+| 2021-07 | mHuBERT      | Direct speech-to-speech translation with discrete units                                                       | [paper](https://arxiv.org/abs/2107.05604) |
+| 2021-06 | HuBERT       | Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units                           | [paper](https://arxiv.org/abs/2106.07447) |
+| 2021-03 | BYOL-A       | Self-Supervised Learning for General-Purpose Audio Representation                                             | [paper](https://arxiv.org/abs/2103.06695) |
+| 2020-12 | DeCoAR2.0    | DeCoAR 2.0: Deep Contextualized Acoustic Representations with Vector Quantization                             | [paper](https://arxiv.org/abs/2012.06659) |
+| 2020-07 | TERA         | TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech                               | [paper](https://arxiv.org/abs/2007.06028) |
+| 2020-06 | Wav2vec2.0   | wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations                               | [paper](https://arxiv.org/abs/2006.11477) |
+| 2019-10 | APC          | Generative Pre-Training for Speech with Autoregressive Predictive Coding                                      | [paper](https://arxiv.org/abs/1910.12607) |
+| 2018-07 | CPC          | Representation Learning with Contrastive Predictive Coding                                                    | [paper](https://arxiv.org/abs/1807.03748) |
 
 ## :trident: SLT 2024 Codec-SUPERB challenge (upcoming)
 [Webpage](https://codecsuperb.github.io/). The challenge will cover nowday's neural audio codecs and speech/audio language models. Agenda: To be determined.
