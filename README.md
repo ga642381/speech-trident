@@ -68,6 +68,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 | 2024-10 | Baichuan-OMNI              | Baichuan-Omni Technical Report       | [paper](https://arxiv.org/abs/2410.08565) |
+| 2024-10 | GLM-4-Voice                | GLM-4-Voice       | [GitHub](https://github.com/THUDM/GLM-4-Voice) |
 | 2024-10 | --              | Roadmap towards Superhuman Speech Understanding using Large Language Models       | [paper](https://arxiv.org/abs/2410.13268) |
 | 2024-10 | SALMONN-OMNI               | SALMONN-OMNI: A SPEECH UNDERSTANDING AND GENERATION LLM IN A CODEC-FREE FULL-DUPLEX FRAMEWORK       | [paper](https://openreview.net/attachment?id=eJpI20hzWf&name=pdf) |
 | 2024-10 | Mini-Omni 2               | Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities       | [paper](https://arxiv.org/abs/2410.11190) |
