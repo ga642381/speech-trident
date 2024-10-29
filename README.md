@@ -67,6 +67,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-10 | GPT-4o              | GPT-4o System Card       | [paper](https://arxiv.org/pdf/2410.21276) |
 | 2024-10 | Baichuan-OMNI              | Baichuan-Omni Technical Report       | [paper](https://arxiv.org/abs/2410.08565) |
 | 2024-10 | GLM-4-Voice                | GLM-4-Voice       | [GitHub](https://github.com/THUDM/GLM-4-Voice) |
 | 2024-10 | --              | Roadmap towards Superhuman Speech Understanding using Large Language Models       | [paper](https://arxiv.org/abs/2410.13268) |
