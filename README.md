@@ -282,6 +282,15 @@ If you find this repository useful, please consider citing the following papers.
 ```
 
 ```
+@article{wu2023speechgen,
+  title={Speechgen: Unlocking the generative power of speech language models with prompts},
+  author={Wu, Haibin and Chang, Kai-Wei and Wu, Yuan-Kuei and Lee, Hung-yi},
+  journal={arXiv preprint arXiv:2306.02207},
+  year={2023}
+}
+```
+
+```
 @article{wu2024towards,
   title={Towards audio language modeling-an overview},
   author={Wu, Haibin and Chen, Xuanjun and Lin, Yi-Cheng and Chang, Kai-wei and Chung, Ho-Lam and Liu, Alexander H and Lee, Hung-yi},
