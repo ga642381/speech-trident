@@ -150,6 +150,8 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-10 | APCodec+ | APCodec+: A Spectrum-Coding-Based High-Fidelity and High-Compression-Rate Neural Audio Codec with Staged Training Paradigm       | [paper](https://arxiv.org/pdf/2410.22807) |
+| 2024-10 | - | A Closer Look at Neural Codec Resynthesis: Bridging the Gap between Codec and Waveform Generation       | [paper](https://arxiv.org/pdf/2410.22448) |
 | 2024-10 | SNAC | SNAC: Multi-Scale Neural Audio Codec       | [paper](https://arxiv.org/pdf/2410.14411) |
 | 2024-10 | LSCodec | LSCodec: Low-Bitrate and Speaker-Decoupled Discrete Speech Codec       | [paper](https://arxiv.org/abs/2410.15764) |
 | 2024-10 | Co-design for codec and codec-LM | TOWARDS CODEC-LM CO-DESIGN FOR NEURAL CODEC LANGUAGE MODELS       | [paper](https://openreview.net/pdf?id=KCVv3tICvp) |
