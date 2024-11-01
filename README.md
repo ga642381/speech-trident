@@ -239,19 +239,7 @@ Professor Hung-Yi Lee will be giving a talk as part of the [Interspeech 2024 sur
 
 ## :trident: ICASSP 2024 Tutorial Information
 
-I (Kai-Wei Chang) will be giving a talk as part of the [ICASSP 2024 tutorial](https://cmsworkshops.com/ICASSP2024/tutorials.php#tut32) titled **Parameter-Efficient and Prompt Learning for Speech and Language Foundation Models**. The topic will cover nowday's speech/audio large language models.
-
-Tutorial speakers:
-
-- Dr. Huck Yang (NVIDIA)
-- Dr. Pin-Yu Chen (IBM Research)
-- Prof. Hung-yi Lee (National Taiwan University)
-- Kai-Wei Chang (National Taiwan University)
-- Cheng-Han Chiang (National Taiwan University)
-
-See you in Seoul!
-
-:trident: Update: The Tutorial was successfully conducted at ICASSP 2024. Thank all attendees for their participation. The slides from my presentation is available at https://kwchang.org/talks/. Please feel free to reach out to me for any discussions.
+I (Kai-Wei Chang) will be giving a talk as part of the [ICASSP 2024 tutorial](https://cmsworkshops.com/ICASSP2024/tutorials.php#tut32) titled **Parameter-Efficient and Prompt Learning for Speech and Language Foundation Models**. The topic will cover nowday's speech/audio large language models. The slides from my presentation is available at https://kwchang.org/talks/. Please feel free to reach out to me for any discussions.
 
 ## :trident: Related Repository
 
@@ -266,7 +254,7 @@ See you in Seoul!
 If you find this repository useful, please consider citing the following papers.
 
 ```
-@article{wu2024codec2,
+@article{wu2024codec,
   title={Codec-SUPERB@ SLT 2024: A lightweight benchmark for neural audio codec models},
   author={Wu, Haibin and Chen, Xuanjun and Lin, Yi-Cheng and Chang, Kaiwei and Du, Jiawei and Lu, Ke-Han and Liu, Alexander H and Chung, Ho-Lam and Wu, Yuan-Kuei and Yang, Dongchao and others},
   journal={arXiv preprint arXiv:2409.14085},
@@ -275,11 +263,29 @@ If you find this repository useful, please consider citing the following papers.
 ```
 
 ```
-@article{wu2024codec,
-  title={Codec-SUPERB: An In-Depth Analysis of Sound Codec Models},
-  author={Wu, Haibin and Chung, Ho-Lam and Lin, Yi-Cheng and Wu, Yuan-Kuei and Chen, Xuanjun and Pai, Yu-Chi and Wang, Hsiu-Hsuan and Chang, Kai-Wei and Liu, Alexander H and Lee, Hung-yi},
-  journal={arXiv preprint arXiv:2402.13071},
-  year={2024}
+@inproceedings{wu-etal-2024-codec,
+    title = "Codec-{SUPERB}: An In-Depth Analysis of Sound Codec Models",
+    author = "Wu, Haibin  and
+      Chung, Ho-Lam  and
+      Lin, Yi-Cheng  and
+      Wu, Yuan-Kuei  and
+      Chen, Xuanjun  and
+      Pai, Yu-Chi  and
+      Wang, Hsiu-Hsuan  and
+      Chang, Kai-Wei  and
+      Liu, Alexander  and
+      Lee, Hung-yi",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.616",
+    doi = "10.18653/v1/2024.findings-acl.616",
+    pages = "10330--10348",
 }
 ```
 
