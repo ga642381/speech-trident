@@ -67,6 +67,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-11 | Freeze-Omni    |  Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM | [paper](https://arxiv.org/abs/2411.00774) |
 | 2024-11 | Align-SLM              | Align-SLM: Textless Spoken Language Models with Reinforcement Learning from AI Feedback       | [paper](https://arxiv.org/pdf/2411.01834) |
 | 2024-10 | GPT-4o              | GPT-4o System Card       | [paper](https://arxiv.org/pdf/2410.21276) |
 | 2024-10 | Baichuan-OMNI              | Baichuan-Omni Technical Report       | [paper](https://arxiv.org/abs/2410.08565) |
@@ -84,8 +85,8 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2024-09 | SSR-Speech         | SSR-Speech: Towards Stable, Safe and Robust Zero-shot Text-based Speech Editing and Synthesis                                                       | [paper](https://arxiv.org/abs/2409.07556) |
 | 2024-09 | MoWE-Audio         | MoWE-Audio: Multitask AudioLLMs with Mixture of Weak Encoders                                                       | [paper](https://arxiv.org/pdf/2409.06635) |
 | 2024-08 | Mini-Omni       | Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming                                       | [paper](https://arxiv.org/abs/2408.16725) |
-| 2024-08 | Make-A-Voice 2       | Language Model Can Listen While Speaking                                       | [paper](https://aclanthology.org/2024.acl-long.589/) |
-| 2024-08 | LSLM       | Make-A-Voice: Revisiting Voice Large Language Models as Scalable Multilingual and Multitask Learner                                       | [paper](https://arxiv.org/abs/2408.02622) |
+| 2024-08 | Make-A-Voice 2       |  Make-A-Voice: Revisiting Voice Large Language Models as Scalable Multilingual and Multitask Learner    | [paper](https://aclanthology.org/2024.acl-long.589/) |
+| 2024-08 | LSLM       |  Language Model Can Listen While Speaking  | [paper](https://arxiv.org/abs/2408.02622) |
 | 2024-06 | SimpleSpeech       | SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models                                       | [paper](https://arxiv.org/abs/2406.02328) |
 | 2024-06 | UniAudio 1.5                | UniAudio 1.5: Large Language Model-driven Audio Codec is A Few-shot Audio Task Learner  | [paper](https://arxiv.org/abs/2406.10056) |
 | 2024-06 | VALL-E R               | VALL-E R: Robust and Efficient Zero-Shot Text-to-Speech Synthesis via Monotonic Alignment  | [paper](https://arxiv.org/abs/2406.07855) |
