@@ -170,6 +170,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2024-08 | X-Codec             | Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model       | [paper](https://arxiv.org/pdf/2408.17175) |
 | 2024-08 | WavTokenizer             | WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling | [paper](https://arxiv.org/abs/2408.16532) |
 | 2024-07 | Super-Codec             | SuperCodec: A Neural Speech Codec with Selective Back-Projection Network | [paper](https://arxiv.org/abs/2407.20530) |
+| 2024-07 | dMel             | dMel: Speech Tokenization made Simple | [paper](https://arxiv.org/abs/2407.15835) |
 | 2024-06 | CodecFake             | CodecFake: Enhancing Anti-Spoofing Models Against Deepfake Audios from Codec-Based Speech Synthesis Systems | [paper](https://arxiv.org/abs/2406.07237) |
 | 2024-06 | Single-Codec             | Single-Codec: Single-Codebook Speech Codec towards High-Performance Speech Generation | [paper](https://www.arxiv.org/abs/2406.07422) |
 | 2024-06 | SQ-Codec             | SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models | [paper](https://arxiv.org/abs/2406.02328) |
