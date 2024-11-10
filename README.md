@@ -67,6 +67,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-11 | hertz-dev    | [blog](https://si.inc/hertz-dev/)  | [code](https://github.com/Standard-Intelligence/hertz-dev) |
 | 2024-11 | Freeze-Omni    |  Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM | [paper](https://arxiv.org/abs/2411.00774) |
 | 2024-11 | Align-SLM              | Align-SLM: Textless Spoken Language Models with Reinforcement Learning from AI Feedback       | [paper](https://arxiv.org/pdf/2411.01834) |
 | 2024-10 | OmniFlatten              | OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation       | [paper](https://arxiv.org/abs/2410.17799v1) |
