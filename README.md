@@ -154,6 +154,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-11 | PyramidCodec | PyramidCodec: Hierarchical Codec for Long-form Music Generation in Audio Domain | [paper](https://aclanthology.org/2024.findings-emnlp.246.pdf) |
 | 2024-11 | UniCodec | Universal Speech Token Learning Via Low-Bitrate Neural Codec and Pretrained Representations | [paper](https://ieeexplore.ieee.org/abstract/document/10738376?casa_token=eWtmSXEr4AEAAAAA:FzYuQIESJ2LXwl9smJQe3RakpDUFuJ-AS0d39ZDlhsI0tBVX_8P7hu4a59yZezz7hpYd3VomUDo) |
 | 2024-11 | SimVQ | Addressing Representation Collapse in Vector Quantized Models with One Linear Layer | [paper](https://arxiv.org/pdf/2411.02038) |
 | 2024-11 | MDCTCodec | MDCTCodec: A Lightweight MDCT-based Neural Audio Codec towards High Sampling Rate and Low Bitrate Scenarios | [paper](https://arxiv.org/pdf/2411.00464) |
