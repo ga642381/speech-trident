@@ -67,7 +67,8 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| 2024-11 | hertz-dev    | [blog](https://si.inc/hertz-dev/)  | [code](https://github.com/Standard-Intelligence/hertz-dev) |
+| 2024-11 | Ultravox    | Ultravox: An open-weight alternative to GPT-4o Realtime | [Blog](https://www.ultravox.ai/blog/ultravox-an-open-weight-alternative-to-gpt-4o-realtime) |
+| 2024-11 | hertz-dev    | [blog](https://si.inc/hertz-dev/)  | [GitHub](https://github.com/Standard-Intelligence/hertz-dev) |
 | 2024-11 | Freeze-Omni    |  Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM | [paper](https://arxiv.org/abs/2411.00774) |
 | 2024-11 | Align-SLM              | Align-SLM: Textless Spoken Language Models with Reinforcement Learning from AI Feedback       | [paper](https://arxiv.org/pdf/2411.01834) |
 | 2024-10 | Ichigo | Ichigo: Mixed-Modal Early-Fusion Realtime Voice Assistant | [paper](https://arxiv.org/abs/2410.15316), [code](https://github.com/homebrewltd/ichigo)|
