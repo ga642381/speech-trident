@@ -63,6 +63,29 @@ In this repository, we survey three crucial areas: (1) representation learning, 
   </tr>
 </table>
 
+## :trident: News
+### [SLT 2024 Codec-SUPERB challenge](https://codecsuperb.github.io/) (upcoming)
+- The challenge will cover nowday's neural audio codecs and speech / audio language models.
+  - Time: December 3 15:00-18:30
+  - **Parts of the recordings and slides will be released after the session**
+  - Detailed agenda: https://codecsuperb.github.io/
+- Invited speakers
+  - [Wenwu Wang (University of Surrey)](https://scholar.google.co.uk/citations?user=JQFnV5IAAAAJ&hl=en)
+  - [Minje Kim (UIUC)](https://siebelschool.illinois.edu/about/people/all-faculty/minje)
+  - [Dongchao Yang (CUHK)](https://scholar.google.com/citations?user=WNiojyAAAAAJ&hl=zh-CN)
+  - [Neil Zeghidour (Moshi)](https://scholar.google.com/citations?user=fiJamZ0AAAAJ&hl=fr)
+  - [Shang-Wen Li (Meta)](https://swdanielli.github.io/)
+- Host
+  - [Hung-yi Lee (NTU)](https://speech.ee.ntu.edu.tw/~hylee/index.php)
+  - [Haibin Wu (Microsoft)](https://hbwu-ntu.github.io)
+- Accepted papers
+  - MDCTCodec: A Lightweight MDCT-based Neural Audio Codec towards High Sampling Rate and Low Bitrate Scenarios
+  - Addressing Index Collapse of Large-Codebook Speech Tokenizer with Dual-Decoding Product-Quantized Variational Auto-Encoder
+  - Investigating neural audio codecs for speech language model-based speech generation
+  - ESPnet-Codec: Comprehensive Training and Evaluation of Neural Codecs for Audio, Music, and Speech
+  - Codec-SUPERB @ SLT 2024: A lightweight benchmark for neural audio codec models
+
+
 ## :trident: Speech/Audio Language Models
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
