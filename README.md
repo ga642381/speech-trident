@@ -90,6 +90,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-11 |   --  | State-Space Large Audio Language Models | [Paper](https://arxiv.org/pdf/2411.15685) |
 | 2024-11 |   --  | Building a Taiwanese Mandarin Spoken Language Model: A First Attempt | [Paper](https://arxiv.org/abs/2411.07111) |
 | 2024-11 | Ultravox    | Ultravox: An open-weight alternative to GPT-4o Realtime | [Blog](https://www.ultravox.ai/blog/ultravox-an-open-weight-alternative-to-gpt-4o-realtime) |
 | 2024-11 | hertz-dev    | [blog](https://si.inc/hertz-dev/)  | [GitHub](https://github.com/Standard-Intelligence/hertz-dev) |
