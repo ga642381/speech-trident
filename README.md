@@ -181,6 +181,8 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-12 | TS3-Codec | TS3-Codec: Transformer-Based Simple Streaming Single Codec       | [paper](https://arxiv.org/pdf/2411.18803) |
+| 2024-12 | TAAE | Scaling Transformers for Low-Bitrate High-Quality Speech Coding       | [paper](https://arxiv.org/pdf/2411.19842) |
 | 2024-11 | PyramidCodec | PyramidCodec: Hierarchical Codec for Long-form Music Generation in Audio Domain | [paper](https://aclanthology.org/2024.findings-emnlp.246.pdf) |
 | 2024-11 | UniCodec | Universal Speech Token Learning Via Low-Bitrate Neural Codec and Pretrained Representations | [paper](https://ieeexplore.ieee.org/abstract/document/10738376?casa_token=eWtmSXEr4AEAAAAA:FzYuQIESJ2LXwl9smJQe3RakpDUFuJ-AS0d39ZDlhsI0tBVX_8P7hu4a59yZezz7hpYd3VomUDo) |
 | 2024-11 | SimVQ | Addressing Representation Collapse in Vector Quantized Models with One Linear Layer | [paper](https://arxiv.org/pdf/2411.02038) |
@@ -192,7 +194,6 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2024-10 | Co-design for codec and codec-LM | TOWARDS CODEC-LM CO-DESIGN FOR NEURAL CODEC LANGUAGE MODELS       | [paper](https://openreview.net/pdf?id=KCVv3tICvp) |
 | 2024-10 | VChangeCodec | VChangeCodec: A High-efficiency Neural Speech Codec with Built-in Voice Changer for Real-time Communication       | [paper](https://openreview.net/forum?id=qDSfOQBrOD) |
 | 2024-10 | DC-Spin | DC-Spin: A Speaker-invariant Speech Tokenizer For Spoken Language Models       | [paper](https://openreview.net/forum?id=OW332Wh9S5) |
-| 2024-10 | TAAE | Scaling Transformers for Low-Bitrate High-Quality Speech Coding       | [paper](https://openreview.net/pdf?id=4YpMrGfldX) |
 | 2024-10 | DM-Codec | DM-Codec: Distilling Multimodal Representations for Speech Tokenization       | [paper](https://openreview.net/forum?id=UFwefiypla) |
 | 2024-09 | Mimi             | Moshi: a speech-text foundation model for real-time dialogue       | [paper](https://kyutai.org/Moshi.pdf) |
 | 2024-09 | NDVQ             | NDVQ: Robust Neural Audio Codec with Normal Distribution-Based Vector Quantization       | [paper](https://arxiv.org/pdf/2409.12717) |
