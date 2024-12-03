@@ -90,6 +90,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-12 |   AlignFormer  | AlignFormer: Modality Matching Can Achieve Better Zero-shot Instruction-Following Speech-LLM | [Paper](https://arxiv.org/pdf/2412.01145) |
 | 2024-11 |   --  | Scaling Speech-Text Pre-training with Synthetic Interleaved Data | [Paper](https://arxiv.org/abs/2411.17607) |
 | 2024-11 |   --  | State-Space Large Audio Language Models | [Paper](https://arxiv.org/pdf/2411.15685) |
 | 2024-11 |   --  | Building a Taiwanese Mandarin Spoken Language Model: A First Attempt | [Paper](https://arxiv.org/abs/2411.07111) |
@@ -183,6 +184,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 | 2024-12 | TS3-Codec | TS3-Codec: Transformer-Based Simple Streaming Single Codec       | [paper](https://arxiv.org/pdf/2411.18803) |
+| 2024-12 | FreeCodec | FreeCodec: A disentangled neural speech codec with fewer tokens  | [paper](https://arxiv.org/pdf/2412.01053) |
 | 2024-12 | TAAE | Scaling Transformers for Low-Bitrate High-Quality Speech Coding       | [paper](https://arxiv.org/pdf/2411.19842) |
 | 2024-11 | PyramidCodec | PyramidCodec: Hierarchical Codec for Long-form Music Generation in Audio Domain | [paper](https://aclanthology.org/2024.findings-emnlp.246.pdf) |
 | 2024-11 | UniCodec | Universal Speech Token Learning Via Low-Bitrate Neural Codec and Pretrained Representations | [paper](https://ieeexplore.ieee.org/abstract/document/10738376?casa_token=eWtmSXEr4AEAAAAA:FzYuQIESJ2LXwl9smJQe3RakpDUFuJ-AS0d39ZDlhsI0tBVX_8P7hu4a59yZezz7hpYd3VomUDo) |
