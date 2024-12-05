@@ -71,19 +71,19 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 - Keynote speakers
   - [Neil Zeghidour (Moshi)](https://scholar.google.com/citations?user=fiJamZ0AAAAJ&hl=fr): 15:15-16:00
     - [slides](https://drive.google.com/file/d/1SrDLQ_XMetVS7Xfo72blVtGYvjNxWwRP/view?usp=sharing) | recording
-    - Audio Language Models
+    - Title: Audio Language Models
   - [Dongchao Yang (CUHK)](https://scholar.google.com/citations?user=WNiojyAAAAAJ&hl=zh-CN): 16:00-16:35
     - [slides](https://drive.google.com/file/d/1oXArl4DayOraVzVH0INUsnB8toIfEJiM/view?usp=sharing) | recording
-    - Challenges in Developing Universal Audio Foundation Model
+    - Title: Challenges in Developing Universal Audio Foundation Model
   - [Shang-Wen Li (Meta)](https://swdanielli.github.io/): 16:35-17:10
     - [slides](https://drive.google.com/file/d/1aRGllscyT2QMRA0sBtebHpBNiDfN84Wq/view?usp=sharing) | recording
-    - VoiceCraft: Zero-Shot Speech Editing and TTS in the Wild
+    - Title: VoiceCraft: Zero-Shot Speech Editing and TTS in the Wild
   - [Wenwu Wang (University of Surrey)](https://scholar.google.co.uk/citations?user=JQFnV5IAAAAJ&hl=en): 17:40-18:15
     - [slides](https://drive.google.com/file/d/1gjBHCi76JiQmaSs9at8T1h2Aw2SnmH08/view?usp=sharing) | recording
-    - Neural Audio Codecs: Recent Progress and a Case Study with SemantiCodec
+    - Title: Neural Audio Codecs: Recent Progress and a Case Study with SemantiCodec
   - [Minje Kim (UIUC)](https://siebelschool.illinois.edu/about/people/all-faculty/minje): 18:15-18:50
     - [slides](https://drive.google.com/file/d/1NsWFRC0-d86tgk-Z36D8oRocT4nX_9FQ/view?usp=sharing) | recording
-    - Future Directions in Neural Speech Communication Codecs
+    - Title: Future Directions in Neural Speech Communication Codecs
 - Host
   - [Hung-yi Lee (NTU)](https://speech.ee.ntu.edu.tw/~hylee/index.php)
   - [Haibin Wu (Microsoft)](https://hbwu-ntu.github.io)
