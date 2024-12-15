@@ -64,12 +64,12 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 </table>
 
 ## :trident: News
-### [SLT 2024 Codec-SUPERB challenge](https://codecsuperb.github.io/)
+### [Codec-SUPERB @ SLT 2024](https://codecsuperb.github.io/)
 - The challenge covers nowday's neural audio codecs and speech / audio language models.
   - Time: December 3 starting at 15:15
   - Detailed agenda: https://codecsuperb.github.io/
 - Keynote speakers
-  - [Neil Zeghidour (Moshi)](https://scholar.google.com/citations?user=fiJamZ0AAAAJ&hl=fr): 15:15-16:00
+  - [Neil Zeghidour (Kyutai)](https://scholar.google.com/citations?user=fiJamZ0AAAAJ&hl=fr): 15:15-16:00
     - [Slides](https://drive.google.com/file/d/1SrDLQ_XMetVS7Xfo72blVtGYvjNxWwRP/view?usp=sharing) | [Recording](https://drive.google.com/file/d/1_UAwzqfFfU3CLz-4p7V3k-c8wt7osba5/view?usp=drive_link) | [YouTube](https://www.youtube.com/watch?v=Zjpl84KCTvw&list=PLJV_el3uVTsNnC37JYD8kBcNDI7CNJgum)
     - Title: Audio Language Models
   - [Dongchao Yang (CUHK)](https://scholar.google.com/citations?user=WNiojyAAAAAJ&hl=zh-CN): 16:00-16:35
