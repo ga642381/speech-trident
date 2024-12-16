@@ -98,6 +98,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2024-12 |   CosyVoice 2  | CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models | [Paper](https://arxiv.org/pdf/2412.10117) |
 | 2024-12 |   GLM-4-Voice  | GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot | [Paper](https://arxiv.org/pdf/2412.02612) |
 | 2024-12 |   AlignFormer  | AlignFormer: Modality Matching Can Achieve Better Zero-shot Instruction-Following Speech-LLM | [Paper](https://arxiv.org/pdf/2412.01145) |
 | 2024-11 |   --  | Scaling Speech-Text Pre-training with Synthetic Interleaved Data | [Paper](https://arxiv.org/abs/2411.17607) |
