@@ -304,6 +304,15 @@ I (Kai-Wei Chang) will be giving a talk as part of the [ICASSP 2024 tutorial](ht
 If you find this repository useful, please consider citing the following papers.
 
 ```
+@article{wu2024ts3,
+  title={TS3-Codec: Transformer-Based Simple Streaming Single Codec},
+  author={Wu, Haibin and Kanda, Naoyuki and Eskimez, Sefik Emre and Li, Jinyu},
+  journal={arXiv preprint arXiv:2411.18803},
+  year={2024}
+}
+```
+
+```
 @article{wu2024codec,
   title={Codec-SUPERB@ SLT 2024: A lightweight benchmark for neural audio codec models},
   author={Wu, Haibin and Chen, Xuanjun and Lin, Yi-Cheng and Chang, Kaiwei and Du, Jiawei and Lu, Ke-Han and Liu, Alexander H and Chung, Ho-Lam and Wu, Yuan-Kuei and Yang, Dongchao and others},
