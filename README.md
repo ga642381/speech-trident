@@ -98,6 +98,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2025-01 |  MinMo   | MinMo: A Multimodal large Language Model for Seamless Voice Interaction | [Paper](https://funaudiollm.github.io/minmo/) |
 | 2025-01 |  VITA-1.5   | VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction | [Paper](https://arxiv.org/html/2501.01957v1) |
 | 2025-01 |  OMNICHAT   | OmniChat: Enhancing Spoken Dialogue Systems with Scalable Synthetic Data for Diverse Scenarios | [Paper](https://arxiv.org/abs/2501.01384) |
 | 2025-01 |  SLIDE   | SLIDE: Integrating Speech Language Model with LLM for Spontaneous Spoken Dialogue Generation | [Paper](https://arxiv.org/pdf/2501.00805) |
