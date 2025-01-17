@@ -98,6 +98,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2025-01 |  MiniCPM-o   | A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone | [GitHub](https://github.com/OpenBMB/MiniCPM-o) |
 | 2025-01 |  MinMo   | MinMo: A Multimodal large Language Model for Seamless Voice Interaction | [Paper](https://funaudiollm.github.io/minmo/) |
 | 2025-01 |  VITA-1.5   | VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction | [Paper](https://arxiv.org/html/2501.01957v1) |
 | 2025-01 |  OMNICHAT   | OmniChat: Enhancing Spoken Dialogue Systems with Scalable Synthetic Data for Diverse Scenarios | [Paper](https://arxiv.org/abs/2501.01384) |
