@@ -201,6 +201,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2025-02 | ComplexDec | ComplexDec: A Domain-robust High-fidelity Neural Audio Codec with Complex Spectrum Modeling       | [paper](https://arxiv.org/pdf/2502.02019) |
 | 2024-12 | TS3-Codec | TS3-Codec: Transformer-Based Simple Streaming Single Codec       | [paper](https://arxiv.org/pdf/2411.18803) |
 | 2024-12 | FreeCodec | FreeCodec: A disentangled neural speech codec with fewer tokens  | [paper](https://arxiv.org/pdf/2412.01053) |
 | 2024-12 | TAAE | Scaling Transformers for Low-Bitrate High-Quality Speech Coding       | [paper](https://arxiv.org/pdf/2411.19842) |
