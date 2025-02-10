@@ -202,6 +202,8 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2025-02 | FocalCodec | FocalCodec: Low-Bitrate Speech Coding via Focal Modulation Networks       | [paper](https://arxiv.org/pdf/2502.04465) |
+| 2025-02 | - | Efficient Evaluation of Quantization-Effects in Neural Codecs       | [paper](https://arxiv.org/pdf/2502.04770) |
 | 2025-02 | X-Codec 2 | Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis       | [paper](https://arxiv.org/pdf/2502.04128) |
 | 2025-02 | ComplexDec | ComplexDec: A Domain-robust High-fidelity Neural Audio Codec with Complex Spectrum Modeling       | [paper](https://arxiv.org/pdf/2502.02019) |
 | 2024-12 | TS3-Codec | TS3-Codec: Transformer-Based Simple Streaming Single Codec       | [paper](https://arxiv.org/pdf/2411.18803) |
