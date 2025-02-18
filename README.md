@@ -98,6 +98,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2025-02 | Step-Audio   | Step-Audio: Unified Understanding and Generation in Intelligent Speech Interaction | [paper](https://github.com/stepfun-ai/Step-Audio/blob/cn-readme/assets/Step-Audio.pdf) |
 | 2025-01 | BAICHUAN-OMNI-1.5   | BAICHUAN-OMNI-1.5 TECHNICAL REPORT | [paper](https://arxiv.org/pdf/2501.15368) |
 | 2025-01 |  MiniCPM-o   | A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone | [GitHub](https://github.com/OpenBMB/MiniCPM-o) |
 | 2025-01 |  MinMo   | MinMo: A Multimodal large Language Model for Seamless Voice Interaction | [Paper](https://funaudiollm.github.io/minmo/) |
