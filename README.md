@@ -98,6 +98,8 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2025-02 | Baichuan-Audio   | Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction | [paper](https://arxiv.org/pdf/2502.17239) |
+| 2025-02 | Slamming   | Slamming: Training a Speech Language Model on One GPU in a Day | [paper](https://arxiv.org/pdf/2502.15814) |
 | 2025-02 | Step-Audio   | Step-Audio: Unified Understanding and Generation in Intelligent Speech Interaction | [paper](https://github.com/stepfun-ai/Step-Audio/blob/cn-readme/assets/Step-Audio.pdf) |
 | 2025-01 | BAICHUAN-OMNI-1.5   | BAICHUAN-OMNI-1.5 TECHNICAL REPORT | [paper](https://arxiv.org/pdf/2501.15368) |
 | 2025-01 |  MiniCPM-o   | A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone | [GitHub](https://github.com/OpenBMB/MiniCPM-o) |
