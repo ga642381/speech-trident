@@ -205,6 +205,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2025-02 | Baichuan-Audio Tokenizer  | Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction | [paper](https://arxiv.org/pdf/2502.17239) |
 | 2025-02 | - | Recent Advances in Discrete Speech Tokens: A Review       | [paper](https://arxiv.org/pdf/2502.06490) |
 | 2025-02 | FocalCodec | FocalCodec: Low-Bitrate Speech Coding via Focal Modulation Networks       | [paper](https://arxiv.org/pdf/2502.04465) |
 | 2025-02 | - | Efficient Evaluation of Quantization-Effects in Neural Codecs       | [paper](https://arxiv.org/pdf/2502.04770) |
