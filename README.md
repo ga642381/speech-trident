@@ -207,6 +207,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2025-03 | BiCodec  | Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens | [paper](https://arxiv.org/pdf/2503.01710) |
 | 2025-03 | FlowDec  | FlowDec: A flow-based full-band general audio codec with high perceptual quality | [paper](https://arxiv.org/pdf/2503.01485) |
 | 2025-02 | UniCodec  | UniCodec: Unified Audio Codec with Single Domain-Adaptive Codebook | [paper](https://arxiv.org/pdf/2502.20067) |
 | 2025-02 | Baichuan-Audio Tokenizer  | Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction | [paper](https://arxiv.org/pdf/2502.17239) |
