@@ -207,6 +207,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2025-03 | FlowDec  | FlowDec: A flow-based full-band general audio codec with high perceptual quality | [paper](https://arxiv.org/pdf/2503.01485) |
 | 2025-02 | UniCodec  | UniCodec: Unified Audio Codec with Single Domain-Adaptive Codebook | [paper](https://arxiv.org/pdf/2502.20067) |
 | 2025-02 | Baichuan-Audio Tokenizer  | Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction | [paper](https://arxiv.org/pdf/2502.17239) |
 | 2025-02 | - | Recent Advances in Discrete Speech Tokens: A Review       | [paper](https://arxiv.org/pdf/2502.06490) |
@@ -270,6 +271,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name   | Paper Title                                                                                                   | Link                                      |
 | ------- | ------------ | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2025-03 | UniWav      | UniWav: Towards Unified Pre-training for Speech Representation Learning and Generation                                        | [paper](https://arxiv.org/pdf/2503.00733) |
 | 2024-09 | NEST-RQ      | NEST-RQ: Next Token Prediction for Speech Self-Supervised Pre-Training                                        | [paper](https://arxiv.org/pdf/2409.08680) |
 | 2024-01 | EAT          | Self-Supervised Pre-Training with Efficient Audio Transformer                                                 | [paper](https://arxiv.org/abs/2401.03497) |
 | 2023-10 | MR-HuBERT    | Multi-resolution HuBERT: Multi-resolution Speech Self-Supervised Learning with Masked Unit Prediction         | [paper](https://arxiv.org/abs/2310.02720) |
