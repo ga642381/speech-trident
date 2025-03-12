@@ -98,9 +98,10 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| 2025-02 | CSM   | Conversational speech generation | [blog](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo) |
-| 2025-02 | Phi-4-Multimodal   | Phi-4-Mini Technical Report: compact yet powerful multimodal language models via mixture-of-LoRAs | [paper](https://arxiv.org/abs/2503.01743) |
-| 2025-02 | Baichuan-Audio   | Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction | [paper](https://arxiv.org/pdf/2502.17239) |
+| 2025-03 | Yue   | YuE: Scaling Open Foundation Models for Long-Form Music Generation | [Paper](https://arxiv.org/pdf/2503.08638) |
+| 2025-03 | CSM   | Conversational speech generation | [blog](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo) |
+| 2025-03 | Phi-4-Multimodal   | Phi-4-Mini Technical Report: compact yet powerful multimodal language models via mixture-of-LoRAs | [paper](https://arxiv.org/abs/2503.01743) |
+| 2025-03 | Baichuan-Audio   | Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction | [paper](https://arxiv.org/pdf/2502.17239) |
 | 2025-02 | Slamming   | Slamming: Training a Speech Language Model on One GPU in a Day | [paper](https://arxiv.org/pdf/2502.15814) |
 | 2025-02 | Step-Audio   | Step-Audio: Unified Understanding and Generation in Intelligent Speech Interaction | [paper](https://github.com/stepfun-ai/Step-Audio/blob/cn-readme/assets/Step-Audio.pdf) |
 | 2025-01 | BAICHUAN-OMNI-1.5   | BAICHUAN-OMNI-1.5 TECHNICAL REPORT | [paper](https://arxiv.org/pdf/2501.15368) |
