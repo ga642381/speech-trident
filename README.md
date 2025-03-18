@@ -208,6 +208,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2025-03 | UniCodec  | Universal Speech Token Learning via Low-Bitrate Neural Codec and Pretrained Representations | [paper](https://arxiv.org/pdf/2503.12115) |
 | 2025-03 | BiCodec  | Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens | [paper](https://arxiv.org/pdf/2503.01710) |
 | 2025-03 | FlowDec  | FlowDec: A flow-based full-band general audio codec with high perceptual quality | [paper](https://arxiv.org/pdf/2503.01485) |
 | 2025-02 | UniCodec  | UniCodec: Unified Audio Codec with Single Domain-Adaptive Codebook | [paper](https://arxiv.org/pdf/2502.20067) |
