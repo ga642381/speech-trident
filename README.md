@@ -98,7 +98,8 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| 2025-03 | Qwen2.5-Omni   | Qwen2.5-Omni Technical Report | [Paper](https://github.com/QwenLM/Qwen2.5-Omni/blob/main/assets/Qwen2.5_Omni.pdf) |
+| 2025-04 | -   | On The Landscape of Spoken Language Models: A Comprehensive Survey | [Paper](https://arxiv.org/pdf/2504.08528) |
+| 2025-03 | Qwen2.5-Omni   | Qwen2.5-Omni Technical Report | [Paper](https://arxiv.org/abs/2503.20215) |
 | 2025-03 | Yue   | YuE: Scaling Open Foundation Models for Long-Form Music Generation | [Paper](https://arxiv.org/pdf/2503.08638) |
 | 2025-03 | CSM   | Conversational speech generation | [blog](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo) |
 | 2025-03 | Phi-4-Multimodal   | Phi-4-Mini Technical Report: compact yet powerful multimodal language models via mixture-of-LoRAs | [paper](https://arxiv.org/abs/2503.01743) |
@@ -209,6 +210,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2025-04 | -  | One Quantizer is Enough: Toward a Lightweight Audio Codec | [paper](https://arxiv.org/pdf/2504.04949) |
 | 2025-04 | TASTE  | TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling | [paper](https://arxiv.org/pdf/2504.07053) |
 | 2025-03 | UniCodec  | Universal Speech Token Learning via Low-Bitrate Neural Codec and Pretrained Representations | [paper](https://arxiv.org/pdf/2503.12115) |
 | 2025-03 | BiCodec  | Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens | [paper](https://arxiv.org/pdf/2503.01710) |
