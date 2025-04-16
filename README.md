@@ -134,6 +134,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2024-10 | Mini-Omni 2               | Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities       | [paper](https://arxiv.org/abs/2410.11190) |
 | 2024-10 | HALL-E               | HALL-E: Hierarchical Neural Codec Language Model for Minute-Long Zero-Shot Text-to-Speech Synthesis       | [paper](https://openreview.net/forum?id=868masI331) |
 | 2024-10 | SyllableLM    |  SyllableLM: Learning Coarse Semantic Units for Speech Language Models     | [paper](https://arxiv.org/html/2410.04029v1) |
+| 2024-09 | DeSTA 2 | DeSTA2: Developing Instruction-Following Speech Language Model Without Speech Instruction-Tuning Data | [paper](https://arxiv.org/abs/2409.20007) |
 | 2024-09 | Moshi               | Moshi: a speech-text foundation model for real-time dialogue       | [paper](https://kyutai.org/Moshi.pdf) |
 | 2024-09 | Takin AudioLLM           | Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models       | [paper](https://arxiv.org/abs/2409.12139) |
 | 2024-09 | FireRedTTS          | FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications       | [paper](https://arxiv.org/html/2409.03283v1) |
