@@ -210,6 +210,7 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2025-04 | DualCodec  | DualCodec: A Low-Frame-Rate, Semantically-Enhanced Neural Audio Codec for Speech Generation | [paper](https://openreview.net/attachment?id=P7VkjAVClZ&name=pdf) |
 | 2025-04 | -  | One Quantizer is Enough: Toward a Lightweight Audio Codec | [paper](https://arxiv.org/pdf/2504.04949) |
 | 2025-04 | TASTE  | TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling | [paper](https://arxiv.org/pdf/2504.07053) |
 | 2025-03 | UniCodec  | Universal Speech Token Learning via Low-Bitrate Neural Codec and Pretrained Representations | [paper](https://arxiv.org/pdf/2503.12115) |
