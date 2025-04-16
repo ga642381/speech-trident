@@ -30,15 +30,13 @@ In this repository, we survey three crucial areas: (1) representation learning, 
         <sub><b>Haibin Wu</b></sub>
       </a>
     </td>
-      <td align="center">
+    <td align="center">
       <a href="https://scholar.google.com.tw/citations?user=-d6aNP0AAAAJ&hl=zh-TW">
         <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=-d6aNP0AAAAJ&citpid=2" width="100px;" style="border-radius: 50%;" alt=""/>
         <br />
         <sub><b>Wei-Cheng Tseng</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://kehanlu.com/">
         <img src="https://avatars.githubusercontent.com/u/22369406?v=4" width="100px;" style="border-radius: 50%;" alt=""/>
@@ -63,36 +61,28 @@ In this repository, we survey three crucial areas: (1) representation learning, 
   </tr>
 </table>
 
-## :trident: News
-### [Codec-SUPERB @ SLT 2024](https://codecsuperb.github.io/)
-- The challenge covers nowday's neural audio codecs and speech / audio language models.
-  - Time: December 3 starting at 15:15
-  - Detailed agenda: https://codecsuperb.github.io/
-- Keynote speakers
-  - [Neil Zeghidour (Kyutai)](https://scholar.google.com/citations?user=fiJamZ0AAAAJ&hl=fr): 15:15-16:00
-    - [Slides](https://drive.google.com/file/d/1SrDLQ_XMetVS7Xfo72blVtGYvjNxWwRP/view?usp=sharing) | [Recording](https://drive.google.com/file/d/1_UAwzqfFfU3CLz-4p7V3k-c8wt7osba5/view?usp=drive_link) | [YouTube](https://www.youtube.com/watch?v=Zjpl84KCTvw&list=PLJV_el3uVTsNnC37JYD8kBcNDI7CNJgum) | [Bilibili](https://www.bilibili.com/video/BV115qZYuENj/?spm_id_from=333.999.0.0&vd_source=de7baff5ae97e3392cfbc4c86ea52abf)
-    - Title: Audio Language Models
-  - [Dongchao Yang (CUHK)](https://scholar.google.com/citations?user=WNiojyAAAAAJ&hl=zh-CN): 16:00-16:35
-    - [Slides](https://drive.google.com/file/d/1oXArl4DayOraVzVH0INUsnB8toIfEJiM/view?usp=sharing) | [Recording](https://drive.google.com/file/d/1owL-lA_VH2rujvG93DaVV1upo8JSrWRc/view?usp=drive_link) | [YouTube](https://www.youtube.com/watch?v=ExDfqz8NfnE&list=PLJV_el3uVTsNnC37JYD8kBcNDI7CNJgum&index=3) | [Bilibili](https://www.bilibili.com/video/BV1m3qZY3Ej3/?spm_id_from=333.999.0.0&vd_source=de7baff5ae97e3392cfbc4c86ea52abf)
-    - Title: Challenges in Developing Universal Audio Foundation Model
-  - [Shang-Wen Li (Meta)](https://swdanielli.github.io/): 16:35-17:10
-    - [Slides](https://drive.google.com/file/d/1aRGllscyT2QMRA0sBtebHpBNiDfN84Wq/view?usp=sharing) | [Recording](https://drive.google.com/file/d/1epVNVNoqiHkS3_KPXnCE4f8KZWTcmea1/view?usp=drive_link) | [YouTube](https://www.youtube.com/watch?v=JidtdZVtpkI&list=PLJV_el3uVTsNnC37JYD8kBcNDI7CNJgum&index=2) | [Bilibili](https://www.bilibili.com/video/BV1R9qoYXEWJ/?spm_id_from=333.999.0.0)
-    - Title: VoiceCraft: Zero-Shot Speech Editing and TTS in the Wild
-  - [Wenwu Wang (University of Surrey)](https://scholar.google.co.uk/citations?user=JQFnV5IAAAAJ&hl=en): 17:40-18:15
-    - [Slides](https://drive.google.com/file/d/1gjBHCi76JiQmaSs9at8T1h2Aw2SnmH08/view?usp=sharing) | [Recording](https://drive.google.com/file/d/1bb3WBHI9z1yOWaTUKn5xKmppe0EHeFyk/view?usp=drive_link) | [YouTube](https://www.youtube.com/watch?v=fIoCxwVobEo&list=PLJV_el3uVTsNnC37JYD8kBcNDI7CNJgum&index=4) | [Bilibili](https://www.bilibili.com/video/BV1dXqoYWE6L/?spm_id_from=333.999.0.0&vd_source=de7baff5ae97e3392cfbc4c86ea52abf)
-    - Title: Neural Audio Codecs: Recent Progress and a Case Study with SemantiCodec
-  - [Minje Kim (UIUC)](https://siebelschool.illinois.edu/about/people/all-faculty/minje): 18:15-18:50
-    - [Slides](https://drive.google.com/file/d/1NsWFRC0-d86tgk-Z36D8oRocT4nX_9FQ/view?usp=sharing) | [Recording](https://drive.google.com/file/d/16wH7nixp_botp1vJAeeQM9ucsnpaRlZ0/view?usp=drive_link) | [YouTube](https://www.youtube.com/watch?v=zxFTrb_xGD0&list=PLJV_el3uVTsNnC37JYD8kBcNDI7CNJgum&index=5) | [Bilibili](https://www.bilibili.com/video/BV1GfqoYnEfS/?spm_id_from=333.999.0.0&vd_source=de7baff5ae97e3392cfbc4c86ea52abf)
-    - Title: Future Directions in Neural Speech Communication Codecs
-- Host
-  - [Hung-yi Lee (NTU)](https://speech.ee.ntu.edu.tw/~hylee/index.php)
-  - [Haibin Wu (Microsoft)](https://hbwu-ntu.github.io)
-- Accepted papers ([Recording](https://drive.google.com/file/d/1NH0RyqZJ8NogH5jUuO5tQ9iShKj95WeM/view?usp=drive_link))
-  - ESPnet-Codec: Comprehensive Training and Evaluation of Neural Codecs for Audio, Music, and Speech
-  - Codec-SUPERB @ SLT 2024: A lightweight benchmark for neural audio codec models
-  - Investigating neural audio codecs for speech language model-based speech generation
-  - Addressing Index Collapse of Large-Codebook Speech Tokenizer with Dual-Decoding Product-Quantized Variational Auto-Encoder
-  - MDCTCodec: A Lightweight MDCT-based Neural Audio Codec towards High Sampling Rate and Low Bitrate Scenarios
+
+## :trident: April 2025 News
+
+The survey paper **“On The Landscape of Spoken Language Models: A Comprehensive Survey”** is now available on [arXiv](https://arxiv.org/pdf/2504.08528)
+```
+@article{arora2025landscape,
+  title={On The Landscape of Spoken Language Models: A Comprehensive Survey},
+  author={Arora, Siddhant and Chang, Kai-Wei and Chien, Chung-Ming and Peng, Yifan and Wu, Haibin and Adi, Yossi and Dupoux, Emmanuel and Lee, Hung-Yi and Livescu, Karen and Watanabe, Shinji},
+  journal={arXiv preprint arXiv:2504.08528},
+  year={2025}
+}
+```
+It provides a comprehensive survey of spoken language models (SLMs), which covers a lot of speech/audio langauge models surveyed in this Speech-Trident project. But with more detailed and technical discussion. The paper categorizes the SLMs into:
+
+1.⚡ **Pure Speech LM**
+
+2.⚡ **Speech-aware Text LM**
+
+3.⚡ **Speech + Text LM**
+
+In addition, the paper discusses training strategies, speech/text token decoding patterns, duplex speech dialogue, benchmarks for SLMs, and more.
+Please read the [paper](https://arxiv.org/pdf/2504.08528) for more details. You will enjoy it!!
 
 ## :trident: Speech/Audio Language Models
 
@@ -312,8 +302,41 @@ In this repository, we survey three crucial areas: (1) representation learning, 
 | 2019-10 | APC          | Generative Pre-Training for Speech with Autoregressive Predictive Coding                                      | [paper](https://arxiv.org/abs/1910.12607) |
 | 2018-07 | CPC          | Representation Learning with Contrastive Predictive Coding                                                    | [paper](https://arxiv.org/abs/1807.03748) |
 
-## :trident: SLT 2024 Codec-SUPERB challenge (upcoming)
-[Webpage](https://codecsuperb.github.io/). The challenge will cover nowday's neural audio codecs and speech/audio language models. Agenda: To be determined.
+## :trident: SLT 2024 Codec-SUPERB challenge
+- The challenge covers nowday's neural audio codecs and speech / audio language models.
+  - Time: December 3 starting at 15:15
+  - Detailed agenda: https://codecsuperb.github.io/
+
+<details>
+<summary> More about SLT 2024 Codec-SUPERB challenge </summary>
+  
+- Keynote speakers
+  - [Neil Zeghidour (Kyutai)](https://scholar.google.com/citations?user=fiJamZ0AAAAJ&hl=fr): 15:15-16:00
+    - [Slides](https://drive.google.com/file/d/1SrDLQ_XMetVS7Xfo72blVtGYvjNxWwRP/view?usp=sharing) | [Recording](https://drive.google.com/file/d/1_UAwzqfFfU3CLz-4p7V3k-c8wt7osba5/view?usp=drive_link) | [YouTube](https://www.youtube.com/watch?v=Zjpl84KCTvw&list=PLJV_el3uVTsNnC37JYD8kBcNDI7CNJgum) | [Bilibili](https://www.bilibili.com/video/BV115qZYuENj/?spm_id_from=333.999.0.0&vd_source=de7baff5ae97e3392cfbc4c86ea52abf)
+    - Title: Audio Language Models
+  - [Dongchao Yang (CUHK)](https://scholar.google.com/citations?user=WNiojyAAAAAJ&hl=zh-CN): 16:00-16:35
+    - [Slides](https://drive.google.com/file/d/1oXArl4DayOraVzVH0INUsnB8toIfEJiM/view?usp=sharing) | [Recording](https://drive.google.com/file/d/1owL-lA_VH2rujvG93DaVV1upo8JSrWRc/view?usp=drive_link) | [YouTube](https://www.youtube.com/watch?v=ExDfqz8NfnE&list=PLJV_el3uVTsNnC37JYD8kBcNDI7CNJgum&index=3) | [Bilibili](https://www.bilibili.com/video/BV1m3qZY3Ej3/?spm_id_from=333.999.0.0&vd_source=de7baff5ae97e3392cfbc4c86ea52abf)
+    - Title: Challenges in Developing Universal Audio Foundation Model
+  - [Shang-Wen Li (Meta)](https://swdanielli.github.io/): 16:35-17:10
+    - [Slides](https://drive.google.com/file/d/1aRGllscyT2QMRA0sBtebHpBNiDfN84Wq/view?usp=sharing) | [Recording](https://drive.google.com/file/d/1epVNVNoqiHkS3_KPXnCE4f8KZWTcmea1/view?usp=drive_link) | [YouTube](https://www.youtube.com/watch?v=JidtdZVtpkI&list=PLJV_el3uVTsNnC37JYD8kBcNDI7CNJgum&index=2) | [Bilibili](https://www.bilibili.com/video/BV1R9qoYXEWJ/?spm_id_from=333.999.0.0)
+    - Title: VoiceCraft: Zero-Shot Speech Editing and TTS in the Wild
+  - [Wenwu Wang (University of Surrey)](https://scholar.google.co.uk/citations?user=JQFnV5IAAAAJ&hl=en): 17:40-18:15
+    - [Slides](https://drive.google.com/file/d/1gjBHCi76JiQmaSs9at8T1h2Aw2SnmH08/view?usp=sharing) | [Recording](https://drive.google.com/file/d/1bb3WBHI9z1yOWaTUKn5xKmppe0EHeFyk/view?usp=drive_link) | [YouTube](https://www.youtube.com/watch?v=fIoCxwVobEo&list=PLJV_el3uVTsNnC37JYD8kBcNDI7CNJgum&index=4) | [Bilibili](https://www.bilibili.com/video/BV1dXqoYWE6L/?spm_id_from=333.999.0.0&vd_source=de7baff5ae97e3392cfbc4c86ea52abf)
+    - Title: Neural Audio Codecs: Recent Progress and a Case Study with SemantiCodec
+  - [Minje Kim (UIUC)](https://siebelschool.illinois.edu/about/people/all-faculty/minje): 18:15-18:50
+    - [Slides](https://drive.google.com/file/d/1NsWFRC0-d86tgk-Z36D8oRocT4nX_9FQ/view?usp=sharing) | [Recording](https://drive.google.com/file/d/16wH7nixp_botp1vJAeeQM9ucsnpaRlZ0/view?usp=drive_link) | [YouTube](https://www.youtube.com/watch?v=zxFTrb_xGD0&list=PLJV_el3uVTsNnC37JYD8kBcNDI7CNJgum&index=5) | [Bilibili](https://www.bilibili.com/video/BV1GfqoYnEfS/?spm_id_from=333.999.0.0&vd_source=de7baff5ae97e3392cfbc4c86ea52abf)
+    - Title: Future Directions in Neural Speech Communication Codecs
+- Host
+  - [Hung-yi Lee (NTU)](https://speech.ee.ntu.edu.tw/~hylee/index.php)
+  - [Haibin Wu (Microsoft)](https://hbwu-ntu.github.io)
+- Accepted papers ([Recording](https://drive.google.com/file/d/1NH0RyqZJ8NogH5jUuO5tQ9iShKj95WeM/view?usp=drive_link))
+  - ESPnet-Codec: Comprehensive Training and Evaluation of Neural Codecs for Audio, Music, and Speech
+  - Codec-SUPERB @ SLT 2024: A lightweight benchmark for neural audio codec models
+  - Investigating neural audio codecs for speech language model-based speech generation
+  - Addressing Index Collapse of Large-Codebook Speech Tokenizer with Dual-Decoding Product-Quantized Variational Auto-Encoder
+  - MDCTCodec: A Lightweight MDCT-based Neural Audio Codec towards High Sampling Rate and Low Bitrate Scenarios
+  
+</details>
 
 ## :trident: Interspeech 2024 Survey Talk
 
