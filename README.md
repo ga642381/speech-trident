@@ -201,6 +201,7 @@ Please read the [paper](https://arxiv.org/pdf/2504.08528) for more details. You 
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2025-04 | ALMTokenizer | ALMTokenizer: A Low-bitrate and Semantic-rich Audio Codec Tokenizer for Audio Language Modeling | [paper](https://arxiv.org/pdf/2504.10344) |
 | 2025-04 | DualCodec  | DualCodec: A Low-Frame-Rate, Semantically-Enhanced Neural Audio Codec for Speech Generation | [paper](https://openreview.net/attachment?id=P7VkjAVClZ&name=pdf) |
 | 2025-04 | -  | One Quantizer is Enough: Toward a Lightweight Audio Codec | [paper](https://arxiv.org/pdf/2504.04949) |
 | 2025-04 | TASTE  | TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling | [paper](https://arxiv.org/pdf/2504.07053) |
