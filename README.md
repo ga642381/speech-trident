@@ -89,6 +89,7 @@ Please read the [paper](https://arxiv.org/pdf/2504.08528) for more details. You 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 | 2025-04 | -   | On The Landscape of Spoken Language Models: A Comprehensive Survey | [Paper](https://arxiv.org/pdf/2504.08528) |
+| 2025-04 | Kimi-Audio   | Kimi-Audio Technical Report | [Paper](https://github.com/MoonshotAI/Kimi-Audio/blob/master/assets/kimia_report.pdf) |
 | 2025-03 | Qwen2.5-Omni   | Qwen2.5-Omni Technical Report | [Paper](https://arxiv.org/abs/2503.20215) |
 | 2025-03 | Yue   | YuE: Scaling Open Foundation Models for Long-Form Music Generation | [Paper](https://arxiv.org/pdf/2503.08638) |
 | 2025-03 | CSM   | Conversational speech generation | [blog](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo) |
