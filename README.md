@@ -350,13 +350,18 @@ Professor Hung-Yi Lee will be giving a talk as part of the [Interspeech 2024 sur
 
 I (Kai-Wei Chang) will be giving a talk as part of the [ICASSP 2024 tutorial](https://cmsworkshops.com/ICASSP2024/tutorials.php#tut32) titled **Parameter-Efficient and Prompt Learning for Speech and Language Foundation Models**. The topic will cover nowday's speech/audio large language models. The slides from my presentation is available at https://kwchang.org/talks/. Please feel free to reach out to me for any discussions.
 
-## :trident: Related Repository
+## 🔱 Related Repository
 
-- https://github.com/liusongxiang/Large-Audio-Models
-- https://github.com/kuan2jiu99/Awesome-Speech-Generation
-- https://github.com/ga642381/Speech-Prompts-Adapters
-- https://github.com/voidful/Codec-SUPERB
-- https://github.com/huckiyang/awesome-neural-reprogramming-prompting
+| Name                                                        | GitHub Repo                                                                                   | Paper                                               |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| **Towards Holistic Evaluation of Large Audio-Language Models** | [Link](https://github.com/ckyang1124/LALM-Evaluation-Survey)                              | :fire: NEW! [Paper](https://arxiv.org/abs/2505.15957)            |
+| **Large Audio Models**                                      | [Link](https://github.com/liusongxiang/Large-Audio-Models)                                    | -                                                   |
+| **Awesome Speech Generation**                               | [Link](https://github.com/kuan2jiu99/Awesome-Speech-Generation)                               | -                                                   |
+| **Speech Prompts and Adapters**                             | [Link](https://github.com/ga642381/Speech-Prompts-Adapters)                                   | -                                                   |
+| **Codec-SUPERB**                                            | [Link](https://github.com/voidful/Codec-SUPERB)                                               | [Paper](https://arxiv.org/abs/2402.13071)            |
+| **Awesome Neural Programming and Prompting**                | [Link](https://github.com/huckiyang/awesome-neural-reprogramming-prompting)                   | -                                                   |
+
+
 
 ## Citation
 
