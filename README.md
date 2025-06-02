@@ -202,6 +202,8 @@ Please read the [paper](https://arxiv.org/pdf/2504.08528) for more details. You 
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2025-05 | - | Probing the Robustness Properties of Neural Speech Codecs | [paper](https://arxiv.org/pdf/2505.24248) |
+| 2025-05 | DS-Codec | DS-Codec: Dual-Stage Training with Mirror-to-NonMirror Architecture Switching for Speech Codec | [paper](https://arxiv.org/pdf/2505.24314) |
 | 2025-05 | LFSC | Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference | [paper](https://arxiv.org/pdf/2409.12117) |
 | 2025-05 | PAST | PAST: Phonetic-Acoustic Speech Tokenizer | [paper](https://pages.cs.huji.ac.il/adiyoss-lab/PAST/) |
 | 2025-04 | ALMTokenizer | ALMTokenizer: A Low-bitrate and Semantic-rich Audio Codec Tokenizer for Audio Language Modeling | [paper](https://arxiv.org/pdf/2504.10344) |
