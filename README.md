@@ -202,6 +202,7 @@ Please read the [paper](https://arxiv.org/pdf/2504.08528) for more details. You 
 
 | Date    | Model Name           | Paper Title                                                                                                                                                | Link                                      |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2025-06 | TaDiCodec | TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling | [paper](https://hecheng0625.github.io/assets/pdf/Arxiv_TaDiCodec.pdf) |
 | 2025-06 | MagiCodec | MagiCodec: Simple Masked Gaussian-Injected Codec for High-Fidelity Reconstruction and Generation | [paper](https://arxiv.org/pdf/2506.00385) |
 | 2025-06 | - | Probing the Robustness Properties of Neural Speech Codecs | [paper](https://arxiv.org/pdf/2505.24248) |
 | 2025-06 | DS-Codec | DS-Codec: Dual-Stage Training with Mirror-to-NonMirror Architecture Switching for Speech Codec | [paper](https://arxiv.org/pdf/2505.24314) |
