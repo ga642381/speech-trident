@@ -88,6 +88,7 @@ Please read the [paper](https://arxiv.org/pdf/2504.08528) for more details. You 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2025-05 | SLED | Efficient Speech Language Modeling via Energy Distance in Continuous Latent Space | [paper](https://arxiv.org/abs/2505.13181) |
 | 2025-04 | -   | On The Landscape of Spoken Language Models: A Comprehensive Survey | [Paper](https://arxiv.org/pdf/2504.08528) |
 | 2025-04 | Kimi-Audio   | Kimi-Audio Technical Report | [Paper](https://github.com/MoonshotAI/Kimi-Audio/blob/master/assets/kimia_report.pdf) |
 | 2025-03 | Qwen2.5-Omni   | Qwen2.5-Omni Technical Report | [Paper](https://arxiv.org/abs/2503.20215) |
@@ -95,6 +96,7 @@ Please read the [paper](https://arxiv.org/pdf/2504.08528) for more details. You 
 | 2025-03 | CSM   | Conversational speech generation | [blog](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo) |
 | 2025-03 | Phi-4-Multimodal   | Phi-4-Mini Technical Report: compact yet powerful multimodal language models via mixture-of-LoRAs | [paper](https://arxiv.org/abs/2503.01743) |
 | 2025-03 | Baichuan-Audio   | Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction | [paper](https://arxiv.org/pdf/2502.17239) |
+| 2025-02 | DiTAR | DiTAR: Diffusion Transformer Autoregressive Modeling for Speech Generation | [paper](https://arxiv.org/abs/2502.03930) | 
 | 2025-02 | Slamming   | Slamming: Training a Speech Language Model on One GPU in a Day | [paper](https://arxiv.org/pdf/2502.15814) |
 | 2025-02 | Step-Audio   | Step-Audio: Unified Understanding and Generation in Intelligent Speech Interaction | [paper](https://github.com/stepfun-ai/Step-Audio/blob/cn-readme/assets/Step-Audio.pdf) |
 | 2025-01 | BAICHUAN-OMNI-1.5   | BAICHUAN-OMNI-1.5 TECHNICAL REPORT | [paper](https://arxiv.org/pdf/2501.15368) |
@@ -137,6 +139,7 @@ Please read the [paper](https://arxiv.org/pdf/2504.08528) for more details. You 
 | 2024-08 | Make-A-Voice 2       |  Make-A-Voice: Revisiting Voice Large Language Models as Scalable Multilingual and Multitask Learner    | [paper](https://aclanthology.org/2024.acl-long.589/) |
 | 2024-08 | LSLM       |  Language Model Can Listen While Speaking  | [paper](https://arxiv.org/abs/2408.02622) |
 | 2024-07 | Seed-ASR       |  Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition  | [paper](https://arxiv.org/abs/2407.04675) |
+| 2024-07 | MELLE | Autoregressive Speech Synthesis without Vector Quantization | [paper](https://arxiv.org/abs/2407.08551) |
 | 2024-06 | SimpleSpeech       | SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models                                       | [paper](https://arxiv.org/abs/2406.02328) |
 | 2024-06 | UniAudio 1.5                | UniAudio 1.5: Large Language Model-driven Audio Codec is A Few-shot Audio Task Learner  | [paper](https://arxiv.org/abs/2406.10056) |
 | 2024-06 | VALL-E R               | VALL-E R: Robust and Efficient Zero-Shot Text-to-Speech Synthesis via Monotonic Alignment  | [paper](https://arxiv.org/abs/2406.07855) |
