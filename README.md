@@ -281,6 +281,7 @@ Please read the [paper](https://arxiv.org/pdf/2504.08528) for more details. You 
 
 | Date    | Model Name   | Paper Title                                                                                                   | Link                                      |
 | ------- | ------------ | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2025-06 | USAD      | USAD: Universal Speech and Audio Representation via Distillation                                        | [paper](https://arxiv.org/pdf/2506.18843) |
 | 2025-03 | UniWav      | UniWav: Towards Unified Pre-training for Speech Representation Learning and Generation                                        | [paper](https://arxiv.org/pdf/2503.00733) |
 | 2024-09 | NEST-RQ      | NEST-RQ: Next Token Prediction for Speech Self-Supervised Pre-Training                                        | [paper](https://arxiv.org/pdf/2409.08680) |
 | 2024-01 | EAT          | Self-Supervised Pre-Training with Efficient Audio Transformer                                                 | [paper](https://arxiv.org/abs/2401.03497) |
