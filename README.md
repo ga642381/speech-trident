@@ -88,6 +88,7 @@ Please read the [paper](https://arxiv.org/pdf/2504.08528) for more details. You 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2025-07 | DeSTA2.5-Audio | DeSTA2.5-Audio: Toward General-Purpose Large Audio Language Model with Self-Generated Cross-Modal Alignment | [paper](https://arxiv.org/abs/2507.02768) |
 | 2025-05 | SLED | Efficient Speech Language Modeling via Energy Distance in Continuous Latent Space | [paper](https://arxiv.org/abs/2505.13181) |
 | 2025-04 | -   | On The Landscape of Spoken Language Models: A Comprehensive Survey | [Paper](https://arxiv.org/pdf/2504.08528) |
 | 2025-04 | Kimi-Audio   | Kimi-Audio Technical Report | [Paper](https://github.com/MoonshotAI/Kimi-Audio/blob/master/assets/kimia_report.pdf) |
