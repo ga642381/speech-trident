@@ -158,6 +158,7 @@ Please read the [paper](https://arxiv.org/pdf/2504.08528) for more details. You 
 | 2024-08 | Mini-Omni       | Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming                                       | [paper](https://arxiv.org/abs/2408.16725) |
 | 2024-08 | Make-A-Voice 2       |  Make-A-Voice: Revisiting Voice Large Language Models as Scalable Multilingual and Multitask Learner    | [paper](https://aclanthology.org/2024.acl-long.589/) |
 | 2024-08 | LSLM       |  Language Model Can Listen While Speaking  | [paper](https://arxiv.org/abs/2408.02622) |
+| 2024-07 | SenseVoice       | SenseVoice: Multilingual Speech Understanding with Multi-Task Speech Foundation Model | [paper](https://arxiv.org/abs/2407.04051), [code](https://github.com/FunAudioLLM/SenseVoice) |
 | 2024-07 | Seed-ASR       |  Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition  | [paper](https://arxiv.org/abs/2407.04675) |
 | 2024-07 | MELLE | Autoregressive Speech Synthesis without Vector Quantization | [paper](https://arxiv.org/abs/2407.08551) |
 | 2024-06 | SimpleSpeech       | SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models                                       | [paper](https://arxiv.org/abs/2406.02328) |
