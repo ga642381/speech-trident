@@ -483,3 +483,5 @@ Related articles by the core contributors:
   year={2024}
 }
 ```
+
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI
