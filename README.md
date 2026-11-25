@@ -104,6 +104,7 @@ Please read the [paper](https://arxiv.org/pdf/2504.08528) for more details. You 
 
 | Date    | Model Name     | Paper Title                                                                                                           | Link                                      |
 | ------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 2026-11 | Oruk Fourier 2B | Oruk Fourier 2B: Open-Weights English Speech Recognition Model (Qwen3-ASR, 2.04B, CC BY-NC 4.0) | [Hugging Face](https://huggingface.co/oruk/oruk-fourier-2b), [benchmarks](https://oruk.ai/benchmarks) |
 | 2025-07 | Audio Flamingo 3 | Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large Audio Language Models | [paper](https://arxiv.org/abs/2507.08128) |
 | 2025-07 | DeSTA2.5-Audio | DeSTA2.5-Audio: Toward General-Purpose Large Audio Language Model with Self-Generated Cross-Modal Alignment | [paper](https://arxiv.org/abs/2507.02768) |
 | 2025-05 | SLED | Efficient Speech Language Modeling via Energy Distance in Continuous Latent Space | [paper](https://arxiv.org/abs/2505.13181) |
